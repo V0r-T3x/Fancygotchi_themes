@@ -16,9 +16,9 @@ debug = false
 
 stealth_mode = false
 fg_image = ''
-bg_color = [0,255,0,150]#'lime'#'#00FF00'#[0,255,0,150]
+bg_color = ''
 bg_image = 'bg-250x122.png'
-bg_anim_image = ''#'320x240matrix.gif'#'bg-250x122.gif'#'320x240matrix.gif'#
+bg_anim_image = 'bg-250x122.gif'
 # Bold, BoldSmall, Medium, Huge, BoldBig, Small
 font_sizes = [10, 8, 8, 32, 25, 4]
 font = 'DejaVuSansMono'
@@ -199,12 +199,12 @@ z_axis = 0
 
 [theme.widget.bluetooth]
 position = [0, 10]
-label = 'f293'
+label = 'BT'
 label_font_size = 'Bold'
 text_font_size = 'Medium'
 label_spacing = 9
 color = ['red','blue','lime']
-icon = true
+icon = false
 f_awesome = true
 f_awesome_size = 40
 z_axis = 104
