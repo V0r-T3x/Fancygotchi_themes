@@ -1,230 +1,200 @@
 [theme]
 
+[theme.dev]
+
 [theme.options]
-#display = "displayhatmini"
-#resolution = [320, 240]
+
 stealth_mode = false
 fg_image = ''
-bg_color = 'black'
-bg_image = ''
-bg_anim_image = ''
+bg_color = [0,255,0,150]
+bg_image = 'bg-296x128.png'
+bg_anim_image = 'bg-296x128.gif'
 # Bold, BoldSmall, Medium, Huge, BoldBig, Small
-font_sizes = [10, 8, 10, 55, 25, 9]
+font_sizes = [10, 8, 8, 32, 25, 4]
 font = 'DejaVuSansMono'
+font_bold = 'DejaVuSansMono-Bold.ttf'
 status_font = 'DejaVuSansMono'
-label_spacing = 9
+font_awesome = 'font-awesome-solid.otf'
 size_offset = 5
-fps = 3
+label_spacing = 9
 
 cursor = '❤'
 friend_bars = '▌'
 friend_no_bars = '│'
 
-# color mode for the web UI and the display
-# '2' = 1bit color mode B&W
-# '' = full color mode
-color_web = ''
-color_display = '2'
-
-# if an animated background is set it can be use as a fixed image too
-# true = animated
-# false = fixed on the first frame
-anim_web = true
-anim_display = true
-
 # if the full color or animated full color is enabled
 # the main color will have priority on all text color
-main_text_color = ''
+main_text_color = []
 
-# what will be the text color for a low color display
-# 'black'
-# 'white'
-# 'auto' = pale color will be 'white' and dark color will be 'black'
-color_text = 'white'
+# To define which type of image will be saved 
+# 1, L, P, RGB, RGBA, LAB,...
+color_mode = ['P', 'P']
 
-[theme.main_elements]
+[theme.widget]
 
-[theme.main_elements.face]
-position = [14, 28]
-font = "Huge"
-color = "magenta"
+[theme.widget.face]
+position = [13, 30]
+text_font_size = "Huge"
+color = ['black', 'yellow', 'red']
+icon = true
+icon_color = false
+mask = false
+refine = 150
+image_type = 'png'
+f_awesome = false
+f_awesome_size = 40
+zoom = 0.5
+z_axis = 102
+
+[theme.widget.name]
+position = [8,110]
+text_font_size = "Bold"
+color = ['red','lime']
 icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
 
-[theme.main_elements.face.faces]
-look_r = "( ⚆_⚆)"
-look_l = "(☉_☉ )"
-look_r_happy = "( ◕‿◕)"
-look_l_happy = "(◕‿◕ )"
-sleep = "(⇀‿‿↼)"
-sleep2 = "(≖‿‿≖)"
-awake = "(◕‿‿◕)"
-bored = "(-__-)"
-intense = "(°▃▃°)"
-cool = "(⌐■_■)"
-happy = "(•‿‿•)"
-excited = "(ᵔ◡◡ᵔ)"
-grateful = "(^‿‿^)"
-motivated = "(☼‿‿☼)"
-demotivated = "(≖__≖)"
-smart = "(✜‿‿✜)"
-lonely = "(ب__ب)"
-sad = "(╥☁╥ )"
-angry = "(-_-')"
-friend = "(♥‿‿♥)"
-broken = "(☓‿‿☓)"
-debug = "(#__#)"
-upload = "(1__0)"
-upload1 = "(1__1)"
-upload2 = "(0__1)"
-
-[theme.main_elements.name]
-position = [20,20]
-font = "Bold"
-color = "lime"
-icon = false
-
-# Exemple test to add icons to an element label/value
-#[theme.main_elements.test_icon]
-#position = [0, 18]
-#label_icon = true
-#label = ["/.../.../.../icon.png"]
-#value_icon = true
-#value = ["/.../.../.../icon2.png", "/.../.../.../icon3.png"]
-#label_font = "Bold"
-#text_font = "Medium"
-#color = "BLACK"
-
-[theme.main_elements.channel]
-position = [278, 96]
-label = "CH"
-value = "00"
-label_font = "Bold"
-text_font = "Medium"
+[theme.widget.channel]
+position = [104, 87]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
 label_spacing = 9
-color = "lime"
+color = ['black']
 icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 100
 
-[theme.main_elements.aps]
-position = [224, 96]
-label = "APS"
-value = "0 (00)"
-label_font = "Bold"
-text_font = "Medium"
+[theme.widget.aps]
+position = [230, 8]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
 label_spacing = 9
-color = "lime"
+color = ['black']
 icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 101
 
-[theme.main_elements.uptime]
-position = [134, 3]
-label = "UP"
-value = "00:00:00"
-label_font = "Bold"
-text_font = "Medium"
+[theme.widget.uptime]
+position = [94, 4]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
 label_spacing = 9
-color = "lime"
+color = ['black']
 icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
 
-[theme.main_elements.line1]
-position = [0, 33, 240, 33]
-color = "lime"
+[theme.widget.line1]
+position = [0, -10, 240, -10]
+color = ['black','blue']
+z_axis = 0
 
-[theme.main_elements.line2]
-position = [0, 150, 240, 150]
-color = "lime"
+[theme.widget.line2]
+position = [0, -10, 240, -10]
+color = ['black']
+z_axis = 0
 
-[theme.main_elements.friend_face]
-position = [0, 130]
-font = "Bold"
-color = "lime"
+[theme.widget.friend_face]
+position = [140, 20]
+text_font_size = "Huge"
+color = ['black']
 icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
 
-[theme.main_elements.friend_name]
-position = [40, 135]
-font = "BoldSmall"
-color = "lime"
+[theme.widget.friend_name]
+position = [150, 18]
+text_font_size = "Medium"
+color = ['black']
 icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
 
-[theme.main_elements.shakes]
-position = [34, 193]
-label = "PWND "
-value = "0 (00)"
-label_font = "Bold"
-text_font = "Medium"
+[theme.widget.shakes]
+position = [94, 110]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
 label_spacing = 9
-color = 'lime'
+color = ['black']
 icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
 
-[theme.main_elements.mode]
-position = [22, 3]
-value = "AUTO"
-font = "Bold"
-color = "lime"
+[theme.widget.mode]
+position = [32, 25]
+text_font_size = "Bold"
+color = ['black']
 icon = false
+z_axis = 0
 
-[theme.main_elements.status]
-position = [26, 124]
-value = "AUTO"
-font = "Bold"
-color = "lime"
+[theme.widget.status]
+position = [140, 80]
+text_font = 'DejaVuSansMono'
+size_offset = 5
+text_font_size = "Small"
+color = ['black']
 wrap = true
-max = 20
+max_length = 20
+z_axis = 0
 
-[theme.plugin_elements]
+[theme.widget.memtemp_cpu]
+position = [5,4]
+color = ['black']
+label = ''
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
 
-[theme.plugin_elements.bluetooth]
+[theme.widget.memtemp_mem]
+position = [36,4]
+color = ['black']
+label = ''
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_temp]
+position = [66,4]
+color = ['black']
+label = ''
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.bluetooth]
 position = [280, 170]
-label = 'BT'
-value = '-'
-label_font = 'Bold'
-text_font = 'Medium'
+label = 'f293'
+label_font_size = 'Bold'
+text_font_size = 'Medium'
 label_spacing = 9
-color = 'lime'
-icon = false
-
-[theme.plugin_elements.memtemp_cpu]
-position = [29,214]
-label = 'CPU'
-value = '-'
-label_font = 'Bold'
-text_font = 'Medium'
-label_spacing = 9
-color = 'lime'
-icon = false
-
-[theme.plugin_elements.memtemp_mem]
-position = [82,214]
-label = 'MEM'
-value = '-'
-label_font = 'Bold'
-text_font = 'Medium'
-label_spacing = 9
-color = 'lime'
-icon = false
-
-[theme.plugin_elements.memtemp_temp]
-position = [29,250]
-label = 'TEMP'
-value = '-'
-label_font = 'Bold'
-text_font = 'Medium'
-label_spacing = 9
-color = 'lime'
-icon = false
-
-[theme.plugin_elements.crack_house]
-
-[theme.plugin_elements.crack_house.crack_house]
-position = [-10, 185]
-label_font = "Bold"
-text_font = "Small"
-label_spacing = 9
-color = "BLACK"
-icon = false
-
-[theme.plugin_elements.crack_house.crack_house_stats]
-position = [-10, 170]
-label_font = "Bold"
-text_font = "Small"
-label_spacing = 9
-color = "BLACK"
-icon = false
+color = ['red','blue','lime']
+icon = true
+f_awesome = true
+f_awesome_size = 40
+z_axis = 104
