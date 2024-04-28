@@ -1,0 +1,47 @@
+[theme]
+
+[theme.dev]
+
+[theme.options]
+
+stealth_mode = false
+fg_image = ''
+bg_color = 'black'
+bg_image = ''
+bg_anim_image = ''
+# Bold, BoldSmall, Medium, Huge, BoldBig, Small
+font_sizes = [10, 8, 8, 32, 25, 4]
+font = 'DejaVuSansMono'
+font_bold = 'DejaVuSansMono-Bold.ttf'
+status_font = 'DejaVuSansMono'
+font_awesome = 'font-awesome-solid.otf'
+size_offset = 5
+label_spacing = 9
+
+cursor = '❤'
+friend_bars = '▌'
+friend_no_bars = '│'
+
+# if the full color or animated full color is enabled
+# the main color will have priority on all text color
+main_text_color = ['lime']
+
+# To define which type of image will be saved 
+# 1, L, P, RGB, RGBA, LAB,...
+color_mode = ['P', 'P']
+
+[theme.widget]
+
+[theme.widget.face]
+position = [13, 40]
+text_font_size = "Huge"
+color = ['lime']
+icon = true
+icon_color = true
+mask = false
+refine = 150
+image_type = 'png'
+f_awesome = false
+f_awesome_size = 40
+zoom = 1
+z_axis = 102

@@ -1,39 +1,30 @@
 [theme]
 
 [theme.dev]
-# Which frame the theme will refresh
-refresh = -1
-
-# if prompt log or not
-log = true
-
-# Show log
-# true = debug
-# false = warning
-debug = false
 
 [theme.options]
+
 stealth_mode = false
-fg_image = ''#'320x240hs.png'
+fg_image = ''
 bg_color = 'black'
-bg_image = "320x240e-t-g.png"
-bg_anim_image = "320x240matrix.gif"
+bg_image = 'bg-250x122.png'
+bg_anim_image = ''
 # Bold, BoldSmall, Medium, Huge, BoldBig, Small
-font_sizes = [10, 8, 10, 55, 25, 9]
+font_sizes = [9, 3, 9, 30, 9, 11]
 font = 'DejaVuSansMono'
-font_bold = 'DejaVuSansMono-Bold.ttf'
+font_bold = 'DejaVuSansMono-Bold'
 status_font = 'DejaVuSansMono'
 font_awesome = 'font-awesome-solid.otf'
+size_offset = 6
 label_spacing = 9
-size_offset = 5
 
 cursor = '❤'
-friend_bars = '>'#'▌'
+friend_bars = '▌'
 friend_no_bars = '│'
 
 # if the full color or animated full color is enabled
 # the main color will have priority on all text color
-main_text_color = []
+main_text_color = ['black']
 
 # To define which type of image will be saved 
 # 1, L, P, RGB, RGBA, LAB,...
@@ -42,22 +33,22 @@ color_mode = ['P', 'P']
 [theme.widget]
 
 [theme.widget.face]
-position = [14, 28]
+position = [10, 32]
 text_font_size = "Huge"
 color = ['lime']
-icon = false
-icon_color = false
+icon = true
+icon_color = true
 mask = false
 refine = 150
 image_type = 'png'
 f_awesome = false
 f_awesome_size = 40
-zoom = 0.5
+zoom = 1
 z_axis = 102
 
 [theme.widget.name]
-position = [20,20]
-text_font_size = "Bold"
+position = [5, 11]
+text_font_size = "Medium"
 color = ['lime']
 icon = false
 f_awesome = false
@@ -65,11 +56,11 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.channel]
-position = [278, 96]
-label = "CH"
-label_font_size = "Bold"
+position = [86, 11]
+label = "CH:"
+label_font_size = "Medium"
 text_font_size = "Medium"
-label_spacing = 9
+label_spacing = 14
 label_line_spacing = 0
 color = ['lime']
 icon = false
@@ -78,9 +69,9 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.aps]
-position = [224, 96]
-label = 'AP'#'e585'#eb'#"wifi.png"#
-label_font_size = "Bold"
+position = [201, 11]
+label = 'AP:'
+label_font_size = "Medium"
 text_font_size = "Medium"
 label_spacing = 0
 label_line_spacing = 0
@@ -91,11 +82,11 @@ f_awesome_size = 20
 z_axis = 0
 
 [theme.widget.uptime]
-position = [134, 3]
-label = "UP"
-label_font_size = "Bold"
+position = [134, 11]
+label = "UP:"
+label_font_size = "Medium"
 text_font_size = "Medium"
-label_spacing = 9
+label_spacing = 7
 label_line_spacing = 0
 color = ['lime']
 icon = false
@@ -103,18 +94,18 @@ f_awesome = false
 f_awesome_size = 40
 
 [theme.widget.line1]
-position = [0, 0, 320, 0]
+position = [0, -12, 242, -12]
 color = ["lime"]
 z_axis = 0
 
 [theme.widget.line2]
-position = [0, 0, 320, 0]
+position = [0, -12, 242, -12]
 color = ["lime"]
 z_axis = 0
 
 [theme.widget.friend_face]
-position = [34, 205]
-text_font_size = "Bold"
+position = [86, 100]
+text_font_size = "Huge"
 color = ["lime"]
 icon = false
 f_awesome = false
@@ -122,8 +113,8 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.friend_name]
-position = [74, 205]
-text_font_size = "BoldSmall"
+position = [88, 100]
+text_font_size = "Medium"
 color = ["lime"]
 icon = false
 f_awesome = false
@@ -131,11 +122,11 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.shakes]
-position = [34, 193]
-label = "PWND "
-label_font_size = "Bold"
+position = [86, 55]
+label = "PWND: "
+label_font_size = "Medium"
 text_font_size = "Medium"
-label_spacing = 9
+label_spacing = 2
 label_line_spacing = 0
 color = ['lime']
 icon = false
@@ -144,8 +135,8 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.mode]
-position = [22, 3]
-text_font_size = "Bold"
+position = [227, 0]
+text_font_size = "Medium"
 color = ["lime"]
 icon = false
 f_awesome = false
@@ -153,21 +144,22 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.status]
-position = [26, 124]
-text_font_size = "Bold"
+position = [86, 68]
+text_font_size = "BoldSmall"
 color = ["lime"]
 wrap = true
 max_length = 20
+size_offset = 6 
 f_awesome = false
 f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.bluetooth]
-position = [276, 170]
-label = 'BT'#'f293'
-label_font_size = 'Bold'
-text_font_size = 'Medium'
-label_spacing = 9
+position = [201, 0]
+label = 'BT'
+label_font_size = 'BoldBig'
+text_font_size = 'BoldBig'
+label_spacing = 2
 label_line_spacing = 0
 color = ['lime']
 icon = false
@@ -175,39 +167,52 @@ f_awesome = true
 f_awesome_size = 40
 z_axis = 0
 
-[theme.widget.memtemp_cpu]
-position = [217,23]
+[theme.widget.altitude]
+position = [91, 42]
 color = ['lime']
-label = ''
-label_font_size = 'Bold'
+label = 'alt:'
+label_font_size = 'Medium'
 text_font_size = 'Medium'
-label_spacing = 9
+label_spacing = 4
 label_line_spacing = 0
 icon = false
 f_awesome = false
 f_awesome_size = 40
 z_axis = 0
 
-[theme.widget.memtemp_mem]
-position = [273,23]
+[theme.widget.longitude]
+position = [86, 32]
 color = ['lime']
-label = ''
-label_font_size = 'Bold'
+label = 'long:'
+label_font_size = 'Medium'
 text_font_size = 'Medium'
-label_spacing = 9
+label_spacing = 4
 label_line_spacing = 0
 icon = false
 f_awesome = false
 f_awesome_size = 40
 z_axis = 0
 
-[theme.widget.memtemp_temp]
-position = [218,61]
+[theme.widget.latitude]
+position = [91, 22]
+color = ['lime']
+label = 'lat:'
+label_font_size = 'Medium'
+text_font_size = 'Medium'
+label_spacing = 4
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.display-password]
+position = [3, 106]
 color = ['lime']
 label = ''
-label_font_size = 'Bold'
-text_font_size = 'Medium'
-label_spacing = 9
+label_font_size = 'Small'
+text_font_size = 'Small'
+label_spacing = 0
 label_line_spacing = 0
 icon = false
 f_awesome = false

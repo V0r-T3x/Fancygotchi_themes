@@ -1,0 +1,9 @@
+{
+  "author": "LawrySauce",
+  "version": "1.0.0",
+  "resolutions": "250x122",
+  "display": "dfrobotv1, dfrobotv2, waveshare(v1, v2,v3, v4)",
+  "plugins": ["memtemp.py", "gps.py", "display-password.py", "bt-ether.py"],
+  "Description": "Adaptation of egirl (@PersephoneKarnstein)"
+  "notes": "memtemp.py needs to be put in horizontal mode"
+}
