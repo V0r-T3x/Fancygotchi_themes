@@ -1,0 +1,7 @@
+{
+  "author": "RasTacsko",
+  "version": "1.0.0",
+  "display": "displayhatmini",
+  "plugins": "memtemp.py, bt-tether.py",
+  "notes": "memtemp.py needs to be put in vertical mode. Images made by JD-2006"
+}
