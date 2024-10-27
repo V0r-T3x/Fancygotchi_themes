@@ -1,0 +1,7 @@
+{
+    "author": "<a href='https://github.com/V0r-T3x'>V0rT3x</a> & <a href='https://github.com/roodriiigooo'>Roodriiigooo</a>",
+    "version": "1.0.0",
+    "display": "waveshare_2",    "resolution": "250x122",
+    "plugins": "all",
+    "notes": "Default theme with pwnaflipper face"
+  }

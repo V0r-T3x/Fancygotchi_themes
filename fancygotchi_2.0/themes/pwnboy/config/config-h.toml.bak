@@ -1,0 +1,360 @@
+[theme]
+
+[theme.dev]
+# Which frame the theme will refresh
+refresh = -1
+
+# if prompt log or not
+log = true
+
+# Show log
+# true = debug
+# false = warning
+debug = false
+
+[theme.options]
+stealth_mode = false
+fg_image = ''#'320x240hs.png'
+bg_color = [0,0,0,150]#'green'
+bg_image = ''#"320x240e-t-g.png"
+bg_anim_image = ""
+# Bold, BoldSmall, Medium, Huge, BoldBig, Small
+font_sizes = [10, 8, 10, 55, 25, 9]
+font = 'DejaVuSansMono'
+font_bold = 'DejaVuSansMono-Bold.ttf'
+status_font = 'DejaVuSansMono'
+font_awesome = 'font-awesome-solid.otf'
+label_spacing = 9
+size_offset = 5
+
+cursor = '>'#'❤'
+friend_bars = '>'#'▌'
+friend_no_bars = '│'
+
+# if the full color or animated full color is enabled
+# the main color will have priority on all text color
+main_text_color = ['lime']
+
+# To define which type of image will be saved 
+# 1, L, P, RGB, RGBA, LAB,...
+color_mode = ['P', 'P']
+
+[theme.widget]
+
+[theme.widget.face]
+position = ['center', 'center']#[24, 33]
+text_font_size = "Huge"
+color = ['lime']
+icon = true
+icon_color = true
+mask = true
+refine = 150
+image_type = 'png'
+f_awesome = false
+f_awesome_size = 40
+zoom = 0.75
+z_axis = 102
+
+[theme.widget.name]
+position = [24,20]
+text_font_size = "Bold"
+color = ['lime']
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.channel]
+position = [278, 96]
+label = "CH"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = ['lime']
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.aps]
+position = [224, 96]
+label = 'AP'#'e585'#eb'#"wifi.png"#
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 0
+label_line_spacing = 0
+color = ['lime']
+icon = false
+f_awesome = true
+f_awesome_size = 20
+z_axis = 0
+
+[theme.widget.uptime]
+position = [134, 3]
+label = "UP"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = ['lime']
+icon = false
+f_awesome = false
+f_awesome_size = 40
+
+[theme.widget.line1]
+position = [0, 0, 320, 0]
+color = ["lime"]
+z_axis = 0
+
+[theme.widget.line2]
+position = [0, 0, 320, 0]
+color = ["lime"]
+z_axis = 0
+
+[theme.widget.friend_face]
+position = [34, 205]
+text_font_size = "Bold"
+color = ["lime"]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = -1
+
+[theme.widget.friend_name]
+position = [34, 205]
+text_font_size = "BoldSmall"
+color = ["lime"]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.shakes]
+position = [34, 193]
+label = "PWND "
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = ['lime']
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.mode]
+position = [22, 3]
+text_font_size = "Bold"
+color = ["lime"]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.status]
+position = [24, 124]
+text_font_size = "Bold"
+color = ["lime"]
+wrap = true
+max = 20
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.clock]
+position = [250, 193]
+text_font_size = "Medium"
+color = ["lime"]
+wrap = true
+max = 20
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.bluetooth]
+position = [276, 170]
+label = 'BT'#'f293'
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+color = ['lime']
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_cpu]
+position = [219,23]
+color = ['lime']
+label = ''
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_mem]
+position = [273,23]
+color = ['lime']
+label = ''
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_temp]
+position = [218,61]
+color = ['lime']
+label = ''
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.bat]
+position = [270, 61]
+label = ''
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+color = ['lime']
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.deauth_count]
+position = [227,134]
+color = ['lime']
+label = 'D'
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.assoc_count]
+position = [281, 134]
+label = 'A'
+label_font_size = 'Bold'
+text_font_size = 'Medium'
+label_spacing = 9
+label_line_spacing = 0
+color = ['lime']
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.Lv]
+position = [24, 112]
+text_font_size = "Medium"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.Str]
+position = [58, 112]
+text_font_size = "Medium"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.Exp]
+position = [115, 112]
+text_font_size = "Bold"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.fix]
+position = [110, 35]
+text_font_size = "Medium"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.lat]
+position = [110, 50]
+text_font_size = "Medium"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.lon]
+position = [110, 65]
+text_font_size = "Medium"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.alt]
+position = [110, 80]
+text_font_size = "Medium"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.spd]
+position = [110, 95]
+text_font_size = "Medium"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.connection_status]
+position = ['right-20', 'bottom-20']
+text_font_size = "Medium"
+color = ["lime"]
+mask = true
+alpha = true
+refine = 50
+zoom = 0.8
+icon_color = true
+z_axis = 0
+
+[theme.widget.wardriver_icon]
+position = [0, 0]
+icon = false
+z_axis = 0
+icon_color = true
+color = ["red", "lime"]
+mask = true
+zoom = 2
+f_awesome = false
+refine = 200
+alpha = true
+invert = true
+
+[theme.widget.wardriver]
+position = [20, 120]
+text_font_size = "Medium"
+color = ["lime"]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 110

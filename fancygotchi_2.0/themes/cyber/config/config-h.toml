@@ -1,0 +1,244 @@
+[theme.dev]
+refresh = -1
+log = true
+debug = false
+
+[theme.options]
+screen_mode = "terminal"
+screen_saver = "hyper_drive"
+second_screen_fps = 60
+bg_fg_select = "manu"
+bg_mode = "stretch"
+fg_mode = "tile"
+fg_image = ""
+bg_color = "black"
+bg_image = "320x240e-t-g.png"
+bg_anim_image = "320x240matrix-v.gif"
+font_sizes = [ 10, 8, 10, 55, 25, 9,]
+font = "DejaVuSansMono"
+font_bold = "DejaVuSansMono-Bold.ttf"
+status_font = "DejaVuSansMono"
+font_awesome = "font-awesome-solid.otf"
+label_spacing = 9
+size_offset = 5
+cursor = "❤"
+friend_bars = ">"
+friend_no_bars = "│"
+main_text_color = [ "lime",]
+color_mode = [ "P", "P",]
+boot_animation = true
+boot_max_loops = 3
+boot_total_duration = 2
+second_screen_webui = true
+second_screen_webui_delay = 1
+
+[theme.menu.options]
+motion_text = true
+motion_text_speed = 20
+position = [ "right", "bottom",]
+width = "50%"
+height = "100%"
+button_height = 15
+text_font_size = "Medium"
+timeout = 0
+border_color = "lime"
+highlight_color = "lime"
+highlight_text_color = "orange"
+button_bg_color = ""
+button_text_color = "lime"
+bg_mode = "stretch"
+bg_image = "bg.png"
+button_bg_image = "button.png"
+highlight_button_bg_image = "h-button.png"
+bg_color = ""
+title_font_size = "BoldBig"
+title_color = "orange"
+
+[theme.widget.face]
+position = [ 14, 28,]
+text_font_size = "Huge"
+color = [ "lime",]
+icon = false
+icon_color = false
+mask = false
+refine = 150
+image_type = "png"
+f_awesome = false
+f_awesome_size = 40
+zoom = 0.5
+z_axis = 102
+
+[theme.widget.name]
+position = [ 20, 20,]
+text_font_size = "Bold"
+color = [ "lime",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.channel]
+position = [ 278, 96,]
+label = "CH"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_line_spacing = 0
+color = [ "lime",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.aps]
+position = [ 224, 96,]
+label = "AP"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 20
+label_line_spacing = 0
+color = [ "lime",]
+icon = false
+f_awesome = true
+f_awesome_size = 20
+z_axis = 0
+
+[theme.widget.uptime]
+position = [ 134, 3,]
+label = "UP"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "lime",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+
+[theme.widget.line1]
+position = [ 0, 0, 320, 0,]
+color = [ "lime",]
+z_axis = 0
+
+[theme.widget.line2]
+position = [ 0, 0, 320, 0,]
+color = [ "lime",]
+z_axis = 0
+
+[theme.widget.friend_face]
+position = [ 34, 205,]
+text_font_size = "Bold"
+color = [ "lime",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.friend_name]
+position = [ 74, 205,]
+text_font_size = "BoldSmall"
+color = [ "lime",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.shakes]
+position = [ 34, 193,]
+label = "PWND"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "lime",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.mode]
+position = [ 22, 3,]
+text_font_size = "Bold"
+color = [ "lime",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.status]
+position = [ 26, 124,]
+text_font_size = "Bold"
+color = [ "lime",]
+wrap = true
+max = 20
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.bluetooth]
+position = [ 276, 170,]
+label = "BT"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "lime",]
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_cpu]
+position = [ 217, 23,]
+color = [ "lime",]
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_mem]
+position = [ 273, 23,]
+color = [ "lime",]
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_temp]
+position = [ 218, 61,]
+color = [ "lime",]
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.menu.menu1.options]
+title = "My Custom menu"
+back = ""
+
+[theme.menu.menu1.btn1]
+title = "Enable bt-ether"
+action = "plugin"
+name = "bt-tether"
+enable = true
+
+[theme.menu.menu1.btn2]
+title = "Run script1.sh"
+action = "run_bash"
+file = "script1.sh"
+
+[theme.menu.menu1.btn3]
+title = "Run file_writer.py"
+action = "run_python"
+file = "file_writer.py"

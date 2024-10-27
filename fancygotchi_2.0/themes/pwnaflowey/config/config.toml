@@ -1,0 +1,40 @@
+[theme.options]
+stealth_mode = false
+fg_image = ""
+bg_color = "black"
+bg_image = ""
+bg_anim_image = ""
+font_sizes = [ 10, 8, 10, 25, 25, 9,]
+font = "DejaVuSansMono"
+font_bold = "DejaVuSansMono-Bold"
+status_font = "DejaVuSansMono"
+font_awesome = ""
+size_offset = 5
+label_spacing = 9
+cursor = "❤"
+friend_bars = "▌"
+friend_no_bars = "│"
+main_text_color = [ "white",]
+color_mode = [ "P", "P",]
+
+[theme.dev]
+log = true
+debug = false
+
+[theme.widget.face]
+position = [ 0, 35,]
+color = [ "yellow",]
+z_axis = 0
+text_font = ""
+text_font_size = "Huge"
+size_offset = 0
+icon = true
+icon_color = true
+invert = true
+alpha = true
+mask = false
+refine = 100
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0

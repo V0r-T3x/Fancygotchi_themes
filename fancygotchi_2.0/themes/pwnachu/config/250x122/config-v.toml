@@ -27,6 +27,10 @@ status_font = 'DejaVuSansMono'
 font_awesome = 'font-awesome-solid.otf'
 size_offset = 5
 label_spacing = 9
+boot_animation = true
+boot_max_loops = 1
+boot_total_duration = 2
+
 
 cursor = '❤'
 friend_bars = '▌'

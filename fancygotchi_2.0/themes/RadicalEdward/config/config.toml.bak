@@ -1,0 +1,212 @@
+[theme.options]
+stealth_mode = false
+fg_image = ""
+bg_color = "white"
+bg_image = ""
+bg_anim_image = ""
+font_sizes = [ 10, 8, 10, 25, 25, 9,]
+font = "DejaVuSansMono"
+font_bold = "DejaVuSansMono-Bold"
+status_font = "DejaVuSansMono"
+font_awesome = ""
+size_offset = 5
+label_spacing = 9
+cursor = "❤"
+friend_bars = "▌"
+friend_no_bars = "│"
+main_text_color = []
+color_mode = [ "P", "P",]
+
+[theme.dev]
+log = true
+debug = false
+
+[theme.widget.channel]
+position = [ 0, 0,]
+color = [ "lime",]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+mask = false
+refine = 150
+zoom = 1
+label = "CH"
+label_font = ""
+label_font_size = "Medium"
+label_spacing = 5
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+
+[theme.widget.aps]
+position = [ 28, 0,]
+color = [ "lime",]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+mask = false
+refine = 150
+zoom = 1
+label = "APS"
+label_font = ""
+label_font_size = "Medium"
+label_spacing = 5
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+
+[theme.widget.uptime]
+position = [ 175, 0,]
+color = [ "lime",]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+mask = false
+refine = 150
+zoom = 1
+label = "UP"
+label_font = ""
+label_font_size = "Medium"
+label_spacing = 5
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+
+[theme.widget.line1]
+position = [ 0, 14, 240, 0,]
+color = [ "lime",]
+z_axis = 0
+width = 1
+
+[theme.widget.line2]
+position = [ 0, 108, 240, 0,]
+color = [ "lime",]
+z_axis = 0
+width = 1
+
+[theme.widget.face]
+position = [ 0, 15,]
+color = [ "red",]
+z_axis = 0
+text_font = ""
+text_font_size = "Huge"
+size_offset = 0
+icon = true
+icon_color = true
+invert = false
+alpha = false
+mask = true
+refine = 75
+zoom = 1.25
+image_type = "png"
+wrap = false
+max_length = 0
+
+[theme.widget.friend_name]
+position = [ 0, 92,]
+color = [ "lime",]
+z_axis = 0
+text_font = ""
+text_font_size = "BoldSmall"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0
+
+[theme.widget.name]
+position = [ 5, 20,]
+color = [ "lime",]
+z_axis = 0
+text_font = ""
+text_font_size = "Bold"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0
+
+[theme.widget.status]
+position = [ 125, 20,]
+color = [ "lime",]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = true
+max_length = 20
+
+[theme.widget.shakes]
+position = [ 0, 109,]
+color = [ "lime",]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+mask = false
+refine = 150
+zoom = 1
+label = "PWND "
+label_font = ""
+label_font_size = "Medium"
+label_spacing = 5
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+
+[theme.widget.mode]
+position = [ 215, 109,]
+color = [ "lime",]
+z_axis = 0
+text_font = ""
+text_font_size = "Bold"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0

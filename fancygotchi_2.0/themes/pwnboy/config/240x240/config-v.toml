@@ -15,7 +15,7 @@ debug = false
 [theme.options]
 stealth_mode = false
 fg_image = ''#'320x240hs.png'
-bg_color = 'green'
+bg_color = [ 0, 0, 0, 100,]
 bg_image = "320x240e-t-g.png"
 bg_anim_image = ""
 # Bold, BoldSmall, Medium, Huge, BoldBig, Small

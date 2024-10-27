@@ -1,7 +1,7 @@
 {
-  "author": "V0rT3x",
+  "author": "<a href='https://github.com/V0r-T3x' style='color:red'>V0rT3x</a>",
   "version": "1.0.0",
   "display": "displayhatmini",
   "plugins": "memtemp.py, bt-tether.py",
-  "notes": "memtemp.py needs to be put in vertical mode"
+  "notes": "memtemp.py needs to be put in vertical mode",  "description": "The background is made by <a href='https://github.com/do-ki'>doki</a>"
 }

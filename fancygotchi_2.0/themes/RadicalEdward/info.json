@@ -1,0 +1,7 @@
+{
+    "author": "V0rT3x & Mikejkelley",
+    "website": "<a href='https://cyberspacemanmike.com/'>cyberspacemanmike</a>",    "version": "1.0.0",
+    "display": "waveshare_2",
+    "plugins": "all",
+    "notes": "Default theme with RadicalEdward face"
+  }

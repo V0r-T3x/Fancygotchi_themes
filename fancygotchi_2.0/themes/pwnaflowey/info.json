@@ -1,0 +1,8 @@
+{
+    "author": "V0rT3x & <a href='https://github.com/roodriiigooo'>Roodriiigooo</a>",
+    "version": "1.0.0",
+    "display": "waveshare_2",
+    "resolution": "250x122",
+    "plugins": "all",
+    "notes": "Default theme with pwnflowey face"
+  }
