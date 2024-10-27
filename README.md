@@ -1,5 +1,5 @@
-# <p align="center">Fancygotchi community themes repository</p>
-<p align="center">This repo is to share the community themes for fancygotchi</p>
+# <p align="center">:star2: Fancygotchi community themes :star2:</p>
+<p align="center">This repository is to share the community themes for fancygotchi</p>
 
 ## :heavy_exclamation_mark::heavy_exclamation_mark:  Disclaimer
 > **Warning**
@@ -13,7 +13,7 @@
 <img src='https://github.com/V0r-T3x/fancygotchi/blob/main/.assets/fancygotchi2.0.png' width='500px'></img>
 </p>
 
-# <p align="center"><a href="https://github.com/V0r-T3x/Fancygotchi_themes/tree/main/fancygotchi_2.0">FANCYGOTCHI 2.0 theme list</a></p>
+# <p align="center"><a href="https://github.com/V0r-T3x/Fancygotchi_themes/tree/main/fancygotchi_2.0">:art: FANCYGOTCHI 2.0 theme list</a></p>
 
 #### <p align="center"><a href="https://github.com/V0r-T3x/Fancygotchi_themes/tree/main/fancygotchi_1.0/themes">Fancygotchi 1.0</a> theme archive</p>
 
