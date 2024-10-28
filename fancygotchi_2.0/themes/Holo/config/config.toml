@@ -22,7 +22,7 @@ log = true
 debug = false
 
 [theme.widget.face]
-position = [ 0, 15,]
+position = [ 0, 33,]
 color = [ "yellow",]
 z_axis = 0
 text_font = ""
@@ -34,7 +34,7 @@ invert = false
 alpha = false
 mask = true
 refine = 100
-zoom = 1.25
+zoom = 1
 image_type = "png"
 wrap = false
 max_length = 0
