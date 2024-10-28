@@ -36,6 +36,7 @@ Everything to know is in the [FANCYGOTCHI WIKI](https://github.com/V0r-T3x/Fancy
 ## :star: Discover another projects
 - [PWNAGOTCHI-CUSTOM-FACES-MOD](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) by [roodriiigooo](https://github.com/roodriiigooo)
 - [Pwnagotchi Boot Animations](https://github.com/itsOwen/pwnagotchi-bootanimations) by [Owen](https://github.com/itsOwen)
+- [Gpiocontrol](https://github.com/RasTacsko/Pwnagotchi-plugins) by [RasTacsko](https://github.com/RasTacsko) **an essential plugin for Fancygotchi 2.0**
 
 ## :tophat: Thank You ♥
 [Evilsocket](https://github.com/evilsocket/pwnagotchi) - [roodriiigooo](https://github.com/roodriiigooo) - [PersephoneKarnstein](https://github.com/PersephoneKarnstein) - [@demetrius_official](https://instagram.com/demetrius_official) - [CodyTolene](https://github.com/CodyTolene) - [SeverX](https://github.com/exosever) - [cyberspacemanmike](https://cyberspacemanmike.com/) - [JD-2006](https://github.com/JD-2006) - [LuckyFish](https://github.com/LuckyFishGeek) - [Jayofelony](http://github.com/Jayofelony) - [Zerodya](https://github.com/Zerodya) - [Owen](https://github.com/itsOwen)
