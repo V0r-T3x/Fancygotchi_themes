@@ -1,5 +1,4 @@
 [theme.options]
-stealth_mode = false
 fg_image = ""
 bg_color = "black"
 bg_image = ""
@@ -16,6 +15,10 @@ friend_bars = "▌"
 friend_no_bars = "│"
 main_text_color = [ "yellow",]
 color_mode = [ "P", "P",]
+boot_animation = true
+boot_max_loops = 1
+boot_total_duration = 2
+
 
 [theme.dev]
 log = true
