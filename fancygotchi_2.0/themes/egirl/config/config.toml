@@ -1,10 +1,10 @@
 [theme.options]
 stealth_mode = false
 fg_image = ""
-bg_color = "white"
-bg_image = "bg-250x122.png"
+bg_color = "black"
+bg_image = ""
 bg_anim_image = ""
-font_sizes = [ 10, 8, 8, 32, 25, 4,]
+font_sizes = [ 10, 8, 10, 25, 25, 9,]
 font = "DejaVuSansMono"
 font_bold = "DejaVuSansMono-Bold.ttf"
 status_font = "DejaVuSansMono"
@@ -14,7 +14,7 @@ label_spacing = 9
 cursor = "❤"
 friend_bars = "▌"
 friend_no_bars = "│"
-main_text_color = [ "black",]
+main_text_color = [ "magenta",]
 color_mode = [ "P", "P",]
 
 [theme.widget.face]
@@ -30,10 +30,3 @@ f_awesome = false
 f_awesome_size = 40
 zoom = 1
 z_axis = 102
-alpha = true
-
-[theme.widget.status]
-position = [ 90, 20,]
-
-[theme.widget.uptime]
-position = [ 60, 0,]

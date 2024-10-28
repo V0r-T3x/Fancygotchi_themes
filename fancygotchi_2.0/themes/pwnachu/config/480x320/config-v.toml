@@ -104,12 +104,12 @@ z_axis = 0
 [theme.widget.line1]
 position = [0, -10, 255, -10]
 color = ['black','blue']
-z_axis = 0
+z_axis = -1
 
 [theme.widget.line2]
 position = [0, -10, 240, -10]
 color = ['black']
-z_axis = 0
+z_axis = -1
 
 [theme.widget.friend_face]
 position = [140, 20]

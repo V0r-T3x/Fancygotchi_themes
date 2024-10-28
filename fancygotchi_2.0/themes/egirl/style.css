@@ -1,7 +1,7 @@
 /* css for default theme*/
 body {
     background-color:;
-    color: lime
+    color: magenta
     text-shadow: 0 1px 0 #194400;
 }
 .ui-image {
@@ -91,7 +91,7 @@ li.navitem {
 .plugins-box {
     margin: 0.5rem;
     padding: 0.2rem;
-    border-color: lime;
+    border-color: magenta;
     border-style: groove;
     border-radius: 0.5rem;
     background-color: #222;
@@ -103,14 +103,14 @@ tr {
     border: 1px solid black;
 }
 tr.info:nth-child() {
-    color: lime;
+    color: magenta;
 }
 
 #filter {
     width: 100%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
-    border: 1px solid lime;
+    border: 1px solid magenta;
     margin-bottom: 12px;
 }
 
@@ -121,7 +121,7 @@ table {
 }
 
 thead, tr:hover {
-    background-color: lime;
+    background-color: magenta;
     color: black;
 }
 
@@ -129,7 +129,7 @@ thead, tr:hover {
 /* A
 #149900 = dark green
 
-lime
+magenta
 black
 
 -----------------------------------------------------------------------------------------------------------*/
@@ -140,8 +140,8 @@ html .ui-bar-a .ui-bar-inherit,
 html .ui-body-a .ui-bar-inherit,
 html body .ui-group-theme-a .ui-bar-inherit {
 	background-color: 			black/*#e9e9e9 {a-bar-background-color}*/;
-	border-color:	 		lime/*#ddd {a-bar-border}*/;
-	color: 					lime/*#333 {a-bar-color}*/;
+	border-color:	 		magenta/*#ddd {a-bar-border}*/;
+	color: 					magenta/*#333 {a-bar-color}*/;
 	text-shadow: 0 /*{a-bar-shadow-x}*/ 1px /*{a-bar-shadow-y}*/ 0 /*{a-bar-shadow-radius}*/ 	#149900/*#eee {a-bar-shadow-color}*/;
 	font-weight: bold;
 }
@@ -154,8 +154,8 @@ html body .ui-group-theme-a .ui-bar-inherit {
 .ui-page-theme-a,
 .ui-page-theme-a .ui-panel-wrapper {
 	background-color: 			black/*#f9f9f9 {a-page-background-color}*/;
-	border-color:	 		lime /*{a-page-border}*/;
-	color: 					lime /*{a-page-color}*/;
+	border-color:	 		magenta /*{a-page-border}*/;
+	color: 					magenta /*{a-page-color}*/;
 	text-shadow: 0 /*{a-page-shadow-x}*/ 1px /*{a-page-shadow-y}*/ 0 /*{a-page-shadow-radius}*/ 	#149900/*#f3f3f3 {a-page-shadow-color}*/;
 }
 /* Body: Read-only lists, text inputs, collapsible content */
@@ -166,8 +166,8 @@ html .ui-body-a .ui-body-inherit,
 html body .ui-group-theme-a .ui-body-inherit,
 html .ui-panel-page-container-a {
 	background-color: 			black /*#f9f9f9{a-body-background-color}*/;
-	border-color:	 		lime/*#ddd {a-body-border}*/;
-	color: 					lime/*#333 {a-body-color}*/;
+	border-color:	 		magenta/*#ddd {a-body-border}*/;
+	color: 					magenta/*#333 {a-body-color}*/;
 	text-shadow: 0 /*{a-body-shadow-x}*/ 1px /*{a-body-shadow-y}*/ 0 /*{a-body-shadow-radius}*/ 	#149900 /*#f3f3f3 {a-body-shadow-color}*/;
 }
 .ui-body-a {
@@ -180,14 +180,14 @@ html .ui-panel-page-container-a {
 html .ui-bar-a a,
 html .ui-body-a a,
 html body .ui-group-theme-a a {
-	color: lime /*{a-link-color}*/;
+	color: magenta /*{a-link-color}*/;
 	font-weight: bold;
 }
 .ui-page-theme-a a:visited,
 html .ui-bar-a a:visited,
 html .ui-body-a a:visited,
 html body .ui-group-theme-a a:visited {
-    color: lime /*{a-link-visited}*/;
+    color: magenta /*{a-link-visited}*/;
 }
 .ui-page-theme-a a:hover,
 html .ui-bar-a a:hover,
@@ -215,7 +215,7 @@ html body .ui-group-theme-a .ui-btn:visited,
 html head + body .ui-btn.ui-btn-a:visited {
 	background-color: 			black/*#f6f6f6 {a-bup-background-color}*/;
 	border-color:	 		black/*#ddd {a-bup-border}*/;
-	color: 					lime /*{a-bup-color}*/;
+	color: 					magenta /*{a-bup-color}*/;
 	text-shadow: 0 /*{a-bup-shadow-x}*/ 1px /*{a-bup-shadow-y}*/ 0 /*{a-bup-shadow-radius}*/ black/*#f3f3f3 {a-bup-shadow-color}*/;
 }
 /* Button hover */
@@ -226,8 +226,8 @@ html body .ui-group-theme-a .ui-btn:hover,
 html head + body .ui-btn.ui-btn-a:hover {
 	background-color: 			black/*#ededed {a-bhover-background-color}*/;
 	border-color:	 		black/*#ddd {a-bhover-border}*/;
-	color: 					lime/*#333 {a-bhover-color}*/;
-	text-shadow: 0 /*{a-bhover-shadow-x}*/ 1px /*{a-bhover-shadow-y}*/ 0 /*{a-bhover-shadow-radius}*/  lime/*#f3f3f3 {a-bhover-shadow-color}*/;
+	color: 					magenta/*#333 {a-bhover-color}*/;
+	text-shadow: 0 /*{a-bhover-shadow-x}*/ 1px /*{a-bhover-shadow-y}*/ 0 /*{a-bhover-shadow-radius}*/  magenta/*#f3f3f3 {a-bhover-shadow-color}*/;
 }
 /* Button down */
 .ui-page-theme-a .ui-btn:active,
@@ -235,7 +235,7 @@ html .ui-bar-a .ui-btn:active,
 html .ui-body-a .ui-btn:active,
 html body .ui-group-theme-a .ui-btn:active,
 html head + body .ui-btn.ui-btn-a:active {
-	background-color: 			lime/*#e8e8e8 {a-bdown-background-color}*/;
+	background-color: 			magenta/*#e8e8e8 {a-bdown-background-color}*/;
 	border-color:	 		black/*#ddd {a-bdown-border}*/;
 	color: 					black/*#333 {a-bdown-color}*/;
 	text-shadow: 0 /*{a-bdown-shadow-x}*/ 1px /*{a-bdown-shadow-y}*/ 0 /*{a-bdown-shadow-radius}*/ #149900/*#f3f3f3 {a-bdown-shadow-color}*/;
@@ -264,8 +264,8 @@ html .ui-bar-a .ui-slider-track .ui-btn-active,
 html .ui-body-a .ui-slider-track .ui-btn-active,
 html body .ui-group-theme-a .ui-slider-track .ui-btn-active,
 html body div.ui-slider-track.ui-body-a .ui-btn-active {
-	background-color: 		lime /*{a-active-background-color}*/;
-	border-color:	 		lime /*{a-active-border}*/;
+	background-color: 		magenta /*{a-active-background-color}*/;
+	border-color:	 		magenta /*{a-active-border}*/;
 	color: 					#000 /*{a-active-color}*/;
 	text-shadow: 0 /*{a-active-shadow-x}*/ 1px /*{a-active-shadow-y}*/ 0 /*{a-active-shadow-radius}*/ #149900 /*{a-active-shadow-color}*/;
 }
@@ -276,7 +276,7 @@ html .ui-bar-a .ui-radio-on:after,
 html .ui-body-a .ui-radio-on:after,
 html body .ui-group-theme-a .ui-radio-on:after,
 .ui-btn.ui-radio-on.ui-btn-a:after {
-	border-color:			lime /*{a-active-background-color}*/;
+	border-color:			magenta /*{a-active-background-color}*/;
 }
 /* Focus */
 .ui-page-theme-a .ui-btn:focus,
@@ -291,8 +291,7 @@ html .ui-body-a .ui-focus,
 html body .ui-group-theme-a .ui-focus,
 html head + body .ui-btn-a.ui-focus,
 html head + body .ui-body-a.ui-focus {
-	-webkit-box-shadow: 0 0 12px 	lime /*{a-active-background-color}*/;
-	-moz-box-shadow: 0 0 12px 		lime /*{a-active-background-color}*/;
-	box-shadow: 0 0 12px 			lime /*{a-active-background-color}*/;
+	-webkit-box-shadow: 0 0 12px 	magenta /*{a-active-background-color}*/;
+	-moz-box-shadow: 0 0 12px 		magenta /*{a-active-background-color}*/;
+	box-shadow: 0 0 12px 			magenta /*{a-active-background-color}*/;
 }
-
