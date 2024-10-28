@@ -1,8 +1,7 @@
 [theme.options]
-stealth_mode = false
 fg_image = ""
 bg_color = "orange"
-bg_image = ""
+bg_image = "bg.png"
 bg_anim_image = ""
 font_sizes = [ 10, 8, 10, 25, 25, 9,]
 font = "DejaVuSansMono"
@@ -19,7 +18,6 @@ color_mode = [ "P", "P",]
 boot_animation = true
 boot_max_loops = 1
 boot_total_duration = 2
-
 
 [theme.dev]
 log = true
@@ -42,3 +40,24 @@ zoom = 1.5
 image_type = "png"
 wrap = false
 max_length = 0
+
+[theme.widget.line1]
+z_axis = -1
+
+[theme.widget.line2]
+z_axis = -1
+
+[theme.widget.status]
+position = [ "right", "center+20",]
+
+[theme.widget.name]
+position = [ 37, 22,]
+
+[theme.widget.aps]
+position = [ 75, 0,]
+
+[theme.widget.channel]
+position = [ 35, 0,]
+
+[theme.widget.uptime]
+position = [ 180, 28,]
