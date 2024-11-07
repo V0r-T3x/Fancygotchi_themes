@@ -212,7 +212,7 @@ html .ui-bar-a .ui-btn:visited,
 html .ui-body-a .ui-btn:visited,
 html body .ui-group-theme-a .ui-btn:visited,
 html head + body .ui-btn.ui-btn-a:visited {
-	background-color: 			black/*#f6f6f6 {a-bup-background-color}*/;
+	background-color: 			#1b1919/*#f6f6f6 {a-bup-background-color}*/;
 	border-color:	 		black/*#ddd {a-bup-border}*/;
 	color: 					lime /*{a-bup-color}*/;
 	text-shadow: 0 /*{a-bup-shadow-x}*/ 1px /*{a-bup-shadow-y}*/ 0 /*{a-bup-shadow-radius}*/ black/*#f3f3f3 {a-bup-shadow-color}*/;
@@ -223,8 +223,7 @@ html .ui-bar-a .ui-btn:hover,
 html .ui-body-a .ui-btn:hover,
 html body .ui-group-theme-a .ui-btn:hover,
 html head + body .ui-btn.ui-btn-a:hover {
-	background-color: 			black/*#ededed {a-bhover-background-color}*/;
-	border-color:	 		black/*#ddd {a-bhover-border}*/;
+	background-color: 			dark-gray/*#ededed {a-bhover-background-color}*/;	border-color:	 		black/*#ddd {a-bhover-border}*/;
 	color: 					lime/*#333 {a-bhover-color}*/;
 	text-shadow: 0 /*{a-bhover-shadow-x}*/ 1px /*{a-bhover-shadow-y}*/ 0 /*{a-bhover-shadow-radius}*/  lime/*#f3f3f3 {a-bhover-shadow-color}*/;
 }
