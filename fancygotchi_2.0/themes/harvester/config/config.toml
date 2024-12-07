@@ -1,0 +1,387 @@
+[theme.dev]
+refresh = -1
+log = true
+debug = false
+
+[theme.options]
+stealth_mode = false
+fg_image = ""
+bg_color = "Black"
+bg_image = "320x240e-t-g.png"
+bg_anim_image = ""
+font_sizes = [ 10, 8, 10, 55, 25, 9,]
+font = "DejaVuSansMono"
+font_bold = "DejaVuSansMono-Bold.ttf"
+status_font = "DejaVuSansMono"
+font_awesome = "font-awesome-solid.otf"
+label_spacing = 9
+size_offset = 5
+cursor = "❤"
+friend_bars = ">"
+friend_no_bars = "│"
+base_text_color = [ "white",]
+main_text_color = []
+color_mode = [ "RGB", "RGB",]
+boot_animation = true
+boot_max_loops = 1
+boot_total_duration = 2
+
+[theme.menu.options]
+motion_text = true
+motion_text_speed = 20
+position = [ "center", "bottom",]
+width = "100%"
+height = 127
+button_height = 20
+text_font_size = "Medium"
+timeout = 0
+border_color = "black"
+highlight_color = "#ff9800"
+highlight_text_color = "black"
+button_bg_color = "black"
+button_text_color = "white"
+button_font_size = "Medium"
+bg_color = "black"
+
+[theme.widget.face]
+position = [ 128, 148,]
+text_font_size = "Huge"
+color = [ "black",]
+icon = true
+icon_color = false
+mask = false
+refine = 150
+image_type = "png"
+f_awesome = false
+f_awesome_size = 40
+zoom = 0
+z_axis = 102
+
+[theme.widget.name]
+position = [ 140, 129,]
+text_font_size = "Bold"
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.channel]
+position = [ 278, 96,]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "white",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.aps]
+position = [ 216, 96,]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 0
+label_line_spacing = 0
+color = [ "white",]
+icon = false
+f_awesome = true
+f_awesome_size = 20
+z_axis = 0
+
+[theme.widget.uptime]
+position = [ 194, 3,]
+label = "UP"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "#6b8c3a",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+
+[theme.widget.line1]
+position = [ 0, 0, 320, 0,]
+color = [ "black",]
+z_axis = 0
+
+[theme.widget.line2]
+position = [ 0, 0, 320, 0,]
+color = [ "black",]
+z_axis = 0
+
+[theme.widget.friend_face]
+position = [ 94, 175,]
+text_font_size = "Medium"
+color = [ "white",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.friend_name]
+position = [ 24, 175,]
+text_font_size = "Medium"
+color = [ "white",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.shakes]
+position = [ 5, 95,]
+label = "PWND"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "white",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.mode]
+position = [ 8, 3,]
+text_font_size = "Bold"
+color = [ "white",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.status]
+position = [ 110, 30,]
+text_font_size = "Bold"
+color = [ "black",]
+wrap = true
+max = 20
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.clock]
+position = [ 250, 193,]
+text_font_size = "Medium"
+color = [ "white",]
+wrap = true
+max = 20
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.bluetooth]
+position = [ 295, 230,]
+label = "BT"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "#e1e3e2",]
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_cpu]
+position = [ 35, 30,]
+color = [ "white",]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_mem]
+position = [ 35, 65,]
+color = [ "white",]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_temp]
+position = [ 250, 30,]
+color = [ "white",]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_freq]
+position = [ 250, 65,]
+color = [ "white",]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.bat]
+position = [ 270, 61,]
+label = ""
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "white",]
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.deauth_count]
+position = [ 5, 220,]
+color = [ "#e1e3e2",]
+label = "D"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.assoc_count]
+position = [ 50, 220,]
+label = "A"
+label_font_size = "Bold"
+text_font_size = "Medium"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "#e1e3e2",]
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.Lv]
+position = [ 144, 140,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.Str]
+position = [ 128, 220,]
+text_font_size = "Medium"
+color = [ "#e1e3e2",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.Exp]
+position = [ 122, 220,]
+text_font_size = "Bold"
+color = [ "#e1e3e2",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.connection_status]
+position = [ 5, 230,]
+text_font_size = "Medium"
+color = [ "#e1e3e2",]
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.ip1]
+position = [ 60, 3,]
+text_font_size = "Medium"
+color = [ "#6b8c3a",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.show_pwd]
+position = [ 105, 230,]
+text_font_size = "Medium"
+color = [ "#dba42c",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.wardriver_icon]
+position = [ 110, 20,]
+text_font_size = "Medium"
+color = [ "lime",]
+icon = true
+icon_color = false
+mask = true
+refine = 150
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.wardriver]
+position = [ 110, 20,]
+text_font_size = "Medium"
+color = [ "lime",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.fix]
+position = [ 50, 135,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.lat]
+position = [ 50, 145,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.lon]
+position = [ 50, 155,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.alt]
+position = [ 50, 165,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.spd]
+position = [ 50, 175,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
