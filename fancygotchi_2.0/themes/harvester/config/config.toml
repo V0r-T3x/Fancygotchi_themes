@@ -21,9 +21,9 @@ friend_bars = ">"
 friend_no_bars = "│"
 base_text_color = [ "white",]
 main_text_color = []
-color_mode = [ "RGB", "RGB",]
+color_mode = [ "P", "P",]
 boot_animation = true
-boot_max_loops = 1
+boot_max_loops = 3
 boot_total_duration = 2
 
 [theme.menu.options]
@@ -58,7 +58,16 @@ zoom = 0
 z_axis = 102
 
 [theme.widget.name]
-position = [ 140, 129,]
+position = [ 140, 132,]
+text_font_size = "Bold"
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.pwnspotify]
+position = [ 45, 124,]
 text_font_size = "Bold"
 color = [ "black",]
 icon = false
@@ -279,7 +288,7 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.Lv]
-position = [ 144, 140,]
+position = [ 144, 142,]
 text_font_size = "Medium"
 color = [ "black",]
 f_awesome = false
@@ -327,21 +336,22 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.wardriver_icon]
-position = [ 110, 20,]
-text_font_size = "Medium"
-color = [ "lime",]
-icon = true
-icon_color = false
-mask = true
-refine = 150
-f_awesome = false
-f_awesome_size = 40
+position = [37,176]
+color = [ 0,]
 z_axis = 0
+icon = true
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+icon_color = false
 
 [theme.widget.wardriver]
-position = [ 110, 20,]
+position = [ 125, 13,]
 text_font_size = "Medium"
-color = [ "lime",]
+color = [ "red",]
 f_awesome = false
 f_awesome_size = 40
 z_axis = 0
@@ -362,6 +372,14 @@ f_awesome = false
 f_awesome_size = 40
 z_axis = 0
 
+[theme.widget.latitude]
+position = [ 50, 145,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
 [theme.widget.lon]
 position = [ 50, 155,]
 text_font_size = "Medium"
@@ -370,7 +388,23 @@ f_awesome = false
 f_awesome_size = 40
 z_axis = 0
 
+[theme.widget.longitude]
+position = [ 50, 155,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
 [theme.widget.alt]
+position = [ 50, 165,]
+text_font_size = "Medium"
+color = [ "black",]
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.altitude]
 position = [ 50, 165,]
 text_font_size = "Medium"
 color = [ "black",]
