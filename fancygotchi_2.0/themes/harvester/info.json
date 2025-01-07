@@ -1,8 +1,8 @@
 {
   "author": "<a href='https://github.com/LOCOSP'>LOCOSP</a>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "display": "Waveshare OLED/LCD HAT",
   "resolution": "320x240",
   "plugins": "memtemp-plus.py, bt-tether.py, gpsd-easy.py",
-  "notes": "memtemp.py needs to be put in vertical mode. Theme for 2' LCD"
+  "notes": "memtemp.py needs to be put in vertical mode. Theme for 2' LCD / new plugin support, new icons for wardrvier.py plugin"
 }
