@@ -77,7 +77,7 @@ zoom = 2
 z_axis = 102
 
 [theme.widget.name]
-text_font = "sw"
+text_font = "sw.ttf"
 position = [ 32, 195,]
 text_font_size = "Bold"
 color = [ "black",]
