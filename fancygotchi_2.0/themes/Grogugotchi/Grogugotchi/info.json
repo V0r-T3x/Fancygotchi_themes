@@ -1,0 +1,13 @@
+{
+  "author": "Justincredible",
+  "version": "1.0.0",
+  "resolutions": "480x320",
+  "display": "waveshare3in5lcd",
+  "plugins": [
+    "memtemp.py",
+    "bt-tether.py",
+	"internet-connection.py",
+	"expv2"
+  ],
+  "notes": ""
+}

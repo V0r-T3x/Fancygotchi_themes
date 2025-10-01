@@ -1,0 +1,269 @@
+[theme.dev]
+refresh = -1
+log = true
+debug = false
+
+[theme.options]
+stealth_mode = false
+boot_animation = true
+boot_max_loops = 1
+boot_total_duration = 1
+screen_mode = "screen_saver"
+screen_saver = "show_logo"
+second_screen_fps = 1
+second_screen_webui = false
+bg_fg_select = "manu"
+bg_mode = "normal"
+fg_mode = "normal"
+fg_image = ""
+bg_color = "black"
+bg_image = "bg_480x320_static.png"
+bg_anim_image = ""
+font_sizes = [ 12, 10, 14, 25, 16, 10,]
+font = "DejaVuSansMono"
+font_bold = "DejaVuSansMono-Bold"
+status_font = "DejaVuSansMono"
+font_awesome = ""
+size_offset = 5
+label_spacing = 9
+cursor = "❤"
+friend_bars = "▌"
+friend_no_bars = "│"
+main_text_color = [ "black",]
+color_mode = [ "P", "P",]
+
+[theme.menu.options]
+motion_text = true
+motion_text_speed = 20
+bg_select = "manu"
+bg_mode = "normal"
+position = [ 0, 0,]
+title_position = [ "center", "5",]
+title_font_size = "Medium"
+title_color = "black"
+width = 100
+height = "100%"
+buttons_position = [ "center", "5",]
+buttons_width = "90%"
+button_height = 15
+button_spacing = 3
+bg_color = "white"
+border_color = "black"
+highlight_color = "black"
+highlight_border_color = "white"
+highlight_text_color = "white"
+button_bg_color = "white"
+button_bg_border_color = "black"
+button_text_color = "black"
+bg_image = ""
+button_bg_image = ""
+highlight_button_bg_image = ""
+text_position = [ "center", "center",]
+button_font_size = "Medium"
+timeout = 30
+
+[theme.widget.face]
+position = [ 35, 125,]
+text_font_size = "Huge"
+color = []
+icon = true
+icon_color = false
+mask = false
+refine = 150
+image_type = "png"
+f_awesome = false
+f_awesome_size = 40
+zoom = 1.8
+z_axis = 102
+
+[theme.widget.line1]
+position = [ 0, 0, 320, 0,]
+color = [ "black",]
+z_axis = 0
+
+[theme.widget.line2]
+position = [ 0, 0, 320, 0,]
+color = [ "black",]
+z_axis = 0
+
+[theme.widget.status]
+position = [ 100, 60,]
+text_font = "DejaVuSansMono-Bold"
+text_font_size = "Medium"
+color = [ "black",]
+wrap = true
+f_awesome = false
+f_awesome_size = 40
+z_axis = 101
+max_length = 30
+
+[theme.widget.name]
+position = [ 305, 125,]
+text_font_size = "Medium"
+text_font = "DejaVuSansMono-Bold"
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 105
+
+[theme.widget.channel]
+position = [ 340, 60,]
+label = "CH"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.aps]
+position = [ 375, 60,]
+label = "AP"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "black",]
+icon = false
+f_awesome = true
+f_awesome_size = 20
+z_axis = 0
+
+[theme.widget.uptime]
+position = [ 340, 45,]
+label = "UP"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+
+[theme.widget.shakes]
+position = [ 100, 30,]
+label = "PWND"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 9
+label_line_spacing = 0
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+max_length = 30
+
+[theme.widget.bluetooth]
+position = [ 426, 160,]
+label = "BT"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 5
+label_line_spacing = 0
+color = [ "black",]
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.gps]
+position = [ 416, 100,]
+label = "GPS"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 5
+label_line_spacing = 0
+color = [ "black",]
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.connection_status]
+position = [ 322, 92,]
+label = "WWW"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 5
+label_line_spacing = 0
+color = [ "black",]
+icon = false
+f_awesome = true
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.mode]
+position = [ 375, 25,]
+text_font = "DejaVuSansMono-Bold"
+text_font_size = "Medium"
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.longitude]
+position = [ 290, 232,]
+label = "lon:"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 9
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.latitude]
+position = [ 290, 222,]
+label = "lat:"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 9
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.altitude]
+position = [ 290, 242,]
+label = "alt:"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 9
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_header]
+position = [ 310, 160,]
+label = "alt:"
+label_font_size = "BoldSmall"
+text_font_size = "BoldSmall"
+label_spacing = 9
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
+
+[theme.widget.memtemp_data]
+position = [ 310, 175,]
+label = "alt:"
+label_font_size = "BoldSmall"
+text_font_size = "Small"
+label_spacing = 9
+color = [ "black",]
+icon = false
+f_awesome = false
+f_awesome_size = 40
+z_axis = 0
