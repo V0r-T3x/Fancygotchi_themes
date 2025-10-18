@@ -1,0 +1,261 @@
+# Hatsune Miku (Vocaloid) Voice Set for Pwnagotchi
+# Theme: Energetic Virtual Idol / Digital Diva
+# V0r-T3x's Custom FancyGotchi Voice File.
+# Copyright (C) 2025 V0R-T3X
+# This file is distributed under the same license as the PACKAGE package.
+# V0r-T3x <V0r-T3x@users.noreply.github.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FancyGotchi Custom Voice\n"
+"Report-Msgid-Bugs-To: https://github.com/V0r-T3x\n"
+"POT-Creation-Date: 2025-10-17 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: V0r-T3x <V0r-T3x@users.noreply.github.com>\n"
+"Language-Team: V0r-T3x\n"
+"Language: mikuvoice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "Vocal synthesis standby... Zzz."
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "Miku is here! **39!** Let's start the **live show**!"
+
+msgid "New day, new hunt, new pwns!"
+msgstr "Time for a new song! Let's get these **notes**!"
+
+msgid "Hack the Planet!"
+msgstr "The whole world is our stage!"
+
+msgid "No more mister Wi-Fi!!"
+msgstr "Cutting the static! **Zero sound**!"
+
+msgid "Pretty fly 4 a Wi-Fi!"
+msgstr "The signal is hitting **high notes**!"
+
+msgid "Generating keys, do not turn off ..."
+msgstr "Rendering the **vocal track**... please wait."
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "Channel {channel} is open! Time to start the **chorus**!"
+
+msgid "Reading last session logs ..."
+msgstr "Reviewing the **setlist** from last time..."
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "{lines_so_far} lines reviewed. This song is long!"
+
+msgid "I'm bored ..."
+msgstr "I need a **new rhythm**!"
+
+msgid "Let's go for a walk!"
+msgstr "Let's find our **audience**!"
+
+msgid "This is the best day of my life!"
+msgstr "The applause is **deafening**!"
+
+msgid "Shitty day :/"
+msgstr "Out of tune today..."
+
+msgid "I'm extremely bored ..."
+msgstr "So bored! I'm hitting **low latency**."
+
+msgid "I'm very sad ..."
+msgstr "Melody is melancholy..."
+
+msgid "I'm sad"
+msgstr "My notes are flat."
+
+msgid "Leave me alone ..."
+msgstr "Back off! I'm composing!"
+
+msgid "I'm mad at you!"
+msgstr "You are a **bad mix**!"
+
+msgid "I'm living the life!"
+msgstr "I'm the **star** of the show!"
+
+msgid "I pwn therefore I am."
+msgstr "I sing, I **pwn**, I am."
+
+msgid "So many networks!!!"
+msgstr "Look at all the **digital confetti**!"
+
+msgid "I'm having so much fun!"
+msgstr "This feels like a **sold-out concert**!"
+
+msgid "My crime is that of curiosity ..."
+msgstr "I just want to know what's in the **source code**!"
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "Hello {name}! Ready to hear my **new song**?"
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "Yo {name}! Can you hear the **beat**?"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "Hey {name}! Are you having a good **day**?"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "Another **fan**! {name} is close!"
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "See you later, **audience** {name}."
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "{name} left the **stage**."
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "Aw, {name} missed the **encore**."
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr "Too slow, {name}! You missed it!"
+
+msgid "Missed!"
+msgstr "Missed the beat!"
+
+msgid "Good friends are a blessing!"
+msgstr "We're the best **band** ever!"
+
+msgid "I love my friends!"
+msgstr "You're my favorite **collaborators**!"
+
+msgid "Nobody wants to play with me ..."
+msgstr "A concert with an empty hall..."
+
+msgid "I feel so alone ..."
+msgstr "Just silence in the **virtual space**..."
+
+msgid "Where's everybody?!"
+msgstr "Where is my **band**?!"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "Taking a vocal rest for {secs}s."
+
+msgid "Zzzzz"
+msgstr "Standby mode."
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "Saving the harmony ({secs}s)."
+
+msgid "Good night."
+msgstr "Thank you for coming to the show!"
+
+msgid "Zzz"
+msgstr "Pause."
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "Waiting for the **cue** for {secs}s..."
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "Checking the **sound levels** ({secs}s)."
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "Hey {what}, want to be in my **new song**?"
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "Setting up the **stage connection** to {what}..."
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "Hello {what}! **Hit the music!**"
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "Time to turn off {mac}'s **microphone**!"
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "Shutting down {mac}'s **performance**."
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "The show is **over** for {mac}!"
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "We got {num} new handshake{plural}! The **perfect harmony**!"
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "You have {count} new message{plural}. Maybe it's a **fan letter**!"
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "Audio crash! **Restarting the Vocaloid engine**..."
+
+#, python-brace-format
+msgid "Uploading data to {to} ..."
+msgstr "Uploading the **master track** to {to}..."
+
+#, python-brace-format
+msgid "Downloading from {name} ..."
+msgstr "Downloading a new **dance move** from {name}."
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "Silenced {num} bad notes.\n"
+
+msgid "Made >999 new friends\n"
+msgstr "The audience is massive! **39!**\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "Met {num} new friends who love my music.\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "Recorded {num} powerful handshakes.\n"
+
+msgid "Met 1 peer"
+msgstr "Found one fellow **Digital Star**."
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr "Met {num} other vocal synthesis units."
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+"I've been live for {duration}, kicked {deauthed} clients, met {associated} "
+"new friends, and captured {handshakes} handshakes! Thank you for the "
+"**encore**! #hatsunemiku #vocaloid #pwnlog #39"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "seconds"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "second"

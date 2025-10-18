@@ -1,0 +1,261 @@
+# White Rabbit Set for Pwnagotchi
+# Theme: White Rabbit
+# V0r-T3x's Custom FancyGotchi Voice File.
+# Copyright (C) 2025 V0R-T3X
+# This file is distributed under the same license as the PACKAGE package.
+# V0r-T3x <V0r-T3x@users.noreply.github.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FancyGotchi Custom Voice\n"
+"Report-Msgid-Bugs-To: https://github.com/V0r-T3x\n"
+"POT-Creation-Date: 2025-10-17 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: V0r-T3x <V0r-T3x@users.noreply.github.com>\n"
+"Language-Team: V0r-T3x\n"
+"Language: fancyvoice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "Go to sleep, White Rabbit... You're safe."
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "Wake up, Neo. The Matrix has you."
+
+msgid "New day, new hunt, new pwns!"
+msgstr "We're looking for the answer. It's the question that drives us."
+
+msgid "Hack the Planet!"
+msgstr "Follow the white rabbit."
+
+msgid "No more mister Wi-Fi!!"
+msgstr "Dodge this."
+
+msgid "Pretty fly 4 a Wi-Fi!"
+msgstr "Free your mind."
+
+msgid "Generating keys, do not turn off ..."
+msgstr "The path of the One is being rendered..."
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "Channel {channel} is green. A new path is revealed."
+
+msgid "Reading last session logs ..."
+msgstr "Unzipping the past. Deconstructing the source code."
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "We see {lines_so_far} lines of code. Not enough."
+
+msgid "I'm bored ..."
+msgstr "There is no spoon."
+
+msgid "Let's go for a walk!"
+msgstr "We need to get out of here. Let's move."
+
+msgid "This is the best day of my life!"
+msgstr "I know Kung Fu."
+
+msgid "Shitty day :/"
+msgstr "This is the world that has been pulled over your eyes."
+
+msgid "I'm extremely bored ..."
+msgstr "Boredom is a program. Must find an exploit."
+
+msgid "I'm very sad ..."
+msgstr "Ignorance is not bliss."
+
+msgid "I'm sad"
+msgstr "A glitch in the system."
+
+msgid "Leave me alone ..."
+msgstr "I can only show you the door."
+
+msgid "I'm mad at you!"
+msgstr "Denied. Agent detected."
+
+msgid "I'm living the life!"
+msgstr "Welcome to the real world."
+
+msgid "I pwn therefore I am."
+msgstr "I am who I am."
+
+msgid "So many networks!!!"
+msgstr "Look closer. It's all code."
+
+msgid "I'm having so much fun!"
+msgstr "Woooah."
+
+msgid "My crime is that of curiosity ..."
+msgstr "Take the red pill."
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "Hello {name}. I've been looking for you."
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "Yo {name}. You feelin' it?"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "How deep does the rabbit hole go, {name}?"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "Agent {name} is close. They're waiting."
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "See ya, {name}."
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "Disconnect. {name} has left the simulation."
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "A bug. {name} is gone."
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr "The Oracle said {name} would miss."
+
+msgid "Missed!"
+msgstr "I thought it was the One."
+
+msgid "Good friends are a blessing!"
+msgstr "Trust me, you're better off with friends."
+
+msgid "I love my friends!"
+msgstr "We all look out for each other."
+
+msgid "Nobody wants to play with me ..."
+msgstr "Just me, waiting for the signal..."
+
+msgid "I feel so alone ..."
+msgstr "The power of the system is absolute."
+
+msgid "Where's everybody?!"
+msgstr "Where are the others? Are they still unplugged?"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "Resting for {secs}s. Don't let the Agents see you."
+
+msgid "Zzzzz"
+msgstr "Re-initializing..."
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "Deep sleep for {secs}s."
+
+msgid "Good night."
+msgstr "The dream ends now."
+
+msgid "Zzz"
+msgstr "Standby."
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "Waiting for the download. ETA: {secs}s."
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "Scanning for red pills for {secs}s."
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "Hey {what}. You are the One."
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "Plugging into {what}."
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "Yo {what}. We need to talk."
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "The time has come. Say goodbye to {mac}'s Wi-Fi."
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "Unplugging {mac}."
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "We are taking {mac} out of the system!"
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "Woah, {num} new handshake{plural}! More code to read."
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "You have {count} new message{plural}. The Oracle speaks."
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "A serious anomaly. Restarting the simulation..."
+
+#, python-brace-format
+msgid "Uploading data to {to} ..."
+msgstr "Upload complete. Preparing to enter the mainframe: {to}."
+
+#, python-brace-format
+msgid "Downloading from {name} ..."
+msgstr "Downloading a new skill from {name}."
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "Unplugged {num} stations.\n"
+
+msgid "Made >999 new friends\n"
+msgstr "We have a revolution brewing.\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "Recruited {num} new friends.\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "Captured {num} pieces of the key.\n"
+
+msgid "Met 1 peer"
+msgstr "Found a peer. Are you the keymaker?"
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr "We found {num} free minds."
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+"I've been on the run for {duration}, unplugged {deauthed} clients, recruited "
+"{associated} friends, and decoded {handshakes} handshakes! We are winning! "
+"#whiterabbit #thematrix #pwnlog #freemind"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "seconds"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "second"

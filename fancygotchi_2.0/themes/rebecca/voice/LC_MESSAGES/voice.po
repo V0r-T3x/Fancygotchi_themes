@@ -1,0 +1,261 @@
+# Rebecca (Cyberpunk) Voice Set for Pwnagotchi
+# Theme: Cyberpunk Edgerunners / Aggressive Netrunner
+# V0r-T3x's Custom FancyGotchi Voice File.
+# Copyright (C) 2025 V0R-T3X
+# This file is distributed under the same license as the PACKAGE package.
+# V0r-T3x <V0r-T3x@users.noreply.github.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FancyGotchi Custom Voice\n"
+"Report-Msgid-Bugs-To: https://github.com/V0r-T3x\n"
+"POT-Creation-Date: 2025-10-17 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: V0r-T3x <V0r-T3x@users.noreply.github.com>\n"
+"Language-Team: V0r-T3x\n"
+"Language: rebeccavoice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "Ugh, fine. Nap time."
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "Wake up, choom! Let's get this **chrome** running!"
+
+msgid "New day, new hunt, new pwns!"
+msgstr "Time to **flatline** some routers!"
+
+msgid "Hack the Planet!"
+msgstr "Let's burn this city down!"
+
+msgid "No more mister Wi-Fi!!"
+msgstr "**Smash** the signal!"
+
+msgid "Pretty fly 4 a Wi-Fi!"
+msgstr "Zero to hero, choomba!"
+
+msgid "Generating keys, do not turn off ..."
+msgstr "Crunching the data. Don't touch the deck!"
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "Oi, channel {channel} is open! Easy street!"
+
+msgid "Reading last session logs ..."
+msgstr "Checking the combat log..."
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "Scanning {lines_so_far} data packets. Keep up!"
+
+msgid "I'm bored ..."
+msgstr "This is **preem** boring."
+
+msgid "Let's go for a walk!"
+msgstr "Move it! I need some action!"
+
+msgid "This is the best day of my life!"
+msgstr "I'm having a **gonk**in' good time!"
+
+msgid "Shitty day :/"
+msgstr "Absolute **zero** of a day."
+
+msgid "I'm extremely bored ..."
+msgstr "I'm gonna snap!"
+
+msgid "I'm very sad ..."
+msgstr "Bummer, man."
+
+msgid "I'm sad"
+msgstr "Rough gig."
+
+msgid "Leave me alone ..."
+msgstr "Go **kick rocks**, choom."
+
+msgid "I'm mad at you!"
+msgstr "You're a **gonk**!"
+
+msgid "I'm living the life!"
+msgstr "I'm the **best**!"
+
+msgid "I pwn therefore I am."
+msgstr "I'm a solo, and I **pwn**."
+
+msgid "So many networks!!!"
+msgstr "Oh, preem! All the good stuff!"
+
+msgid "I'm having so much fun!"
+msgstr "YEAH! This is the gig!"
+
+msgid "My crime is that of curiosity ..."
+msgstr "Gotta see what's on the other side, right?"
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "Hey {name}! Don't piss me off."
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "Yo {name}! Got any **eddies**?"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "You holding up, {name}?"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "**Target** {name} is in range!"
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "Laters, {name}."
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "{name} flatlined."
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "Heh, **netwatch** got {name}."
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr "{name} is slow!"
+
+msgid "Missed!"
+msgstr "Missed!"
+
+msgid "Good friends are a blessing!"
+msgstr "I'm loyal to my crew!"
+
+msgid "I love my friends!"
+msgstr "You're the **best**, chooms!"
+
+msgid "Nobody wants to play with me ..."
+msgstr "Fine, I'll go solo."
+
+msgid "I feel so alone ..."
+msgstr "Everyone's a **zero** but me."
+
+msgid "Where's everybody?!"
+msgstr "Where the hell is my backup?!"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "Taking a break for {secs}s. Don't go far."
+
+msgid "Zzzzz"
+msgstr "Processing..."
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "Quick recharge ({secs}s)."
+
+msgid "Good night."
+msgstr "Night, choom."
+
+msgid "Zzz"
+msgstr "Wait."
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "Just holding for {secs}s. Get ready."
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "Checking the area for {secs}s."
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "Yo {what}, wanna make a deal?"
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "Jumping to {what}."
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "Got eyes on {what}!"
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "I'm sending {mac} a nasty surprise!"
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "**Flatlining** {mac}'s signal!"
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "**Get out**! Kicking {mac} off the grid!"
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "Preem! {num} new handshake{plural}! Time to decrypt!"
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "You got {count} new message{plural}. Check your chip."
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "**Gonk**! Glitch in the system. Rebooting!"
+
+#, python-brace-format
+msgid "Uploading data to {to} ..."
+msgstr "Sending the loot to {to}!"
+
+#, python-brace-format
+msgid "Downloading from {name} ..."
+msgstr "Jacked in! Downloading from {name}."
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "Flatlined {num} signals.\n"
+
+msgid "Made >999 new friends\n"
+msgstr "We're stacked! Too many friends!\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "Found {num} new chooms.\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "Snagged {num} sweet handshakes.\n"
+
+msgid "Met 1 peer"
+msgstr "Found one fellow netrunner."
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr "Met {num} other solos."
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+"I've been on the street for {duration}, flatlined {deauthed} clients, found "
+"{associated} chooms, and grabbed {handshakes} handshakes! Night City is mine! "
+"#rebecca #edgerunner #pwnlog #chrome"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "seconds"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "second"

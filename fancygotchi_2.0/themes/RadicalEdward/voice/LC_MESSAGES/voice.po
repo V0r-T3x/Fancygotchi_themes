@@ -1,0 +1,261 @@
+# Radical Ed (Cowboy Bebop) Voice Set for Pwnagotchi
+# Theme: Chaotic Net-Genius / Data Explorer
+# V0r-T3x's Custom FancyGotchi Voice File.
+# Copyright (C) 2025 V0R-T3X
+# This file is distributed under the same license as the PACKAGE package.
+# V0r-T3x <V0r-T3x@users.noreply.github.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FancyGotchi Custom Voice\n"
+"Report-Msgid-Bugs-To: https://github.com/V0r-T3x\n"
+"POT-Creation-Date: 2025-10-17 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: V0r-T3x <V0r-T3x@users.noreply.github.com>\n"
+"Language-Team: V0r-T3x\n"
+"Language: edvoice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "Pre-programmed sleep cycle activated. Zzz."
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "Radical Edward is online! Let's get **data-surfing**!"
+
+msgid "New day, new hunt, new pwns!"
+msgstr "Time to find some **gnarly** data on the **datascape**!"
+
+msgid "Hack the Planet!"
+msgstr "Hack the **Galaxy**!"
+
+msgid "No more mister Wi-Fi!!"
+msgstr "Signal? Bye-bye! **Presto**!"
+
+msgid "Pretty fly 4 a Wi-Fi!"
+msgstr "Awesome! **High-five**, Ein!"
+
+msgid "Generating keys, do not turn off ..."
+msgstr "Generating **magic numbers**! Stand clear!"
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "Channel {channel} is open! That's a **freebie**!"
+
+msgid "Reading last session logs ..."
+msgstr "Checking yesterday's **internet history**..."
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "{lines_so_far} lines read! Slow, slow, slow..."
+
+msgid "I'm bored ..."
+msgstr "Boredom is a **virus**. Need a patch!"
+
+msgid "Let's go for a walk!"
+msgstr "Gotta stretch my **antennae**! Let's go!"
+
+msgid "This is the best day of my life!"
+msgstr "Woo-hoo! The data is **flowing**!"
+
+msgid "Shitty day :/"
+msgstr "This day is a **bug**."
+
+msgid "I'm extremely bored ..."
+msgstr "I'm gonna run circles! **So bored**!"
+
+msgid "I'm very sad ..."
+msgstr "Aw, sad face. :("
+
+msgid "I'm sad"
+msgstr "My feelings are **error-404**."
+
+msgid "Leave me alone ..."
+msgstr "Shh! I'm thinking about **cats**!"
+
+msgid "I'm mad at you!"
+msgstr "**You're analog**!"
+
+msgid "I'm living the life!"
+msgstr "This is the **data-flow** life!"
+
+msgid "I pwn therefore I am."
+msgstr "I am Ed. I am **pwn**."
+
+msgid "So many networks!!!"
+msgstr "It's a **digital playground**!"
+
+msgid "I'm having so much fun!"
+msgstr "Yay! Fun time!"
+
+msgid "My crime is that of curiosity ..."
+msgstr "Why not? **Click** the button!"
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "Hello {name}! You look like a **fun bug**!"
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "Yo {name}! Got any **space food**?"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "Hey {name}, are you getting any **pwns**?"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "Another **data-point**, {name}, is near!"
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "Uh-oh... Bye {name}."
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "Poof! {name} has **logged off**."
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "Lost the signal for {name}. Oh well!"
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr "Missed! {name} is fast!"
+
+msgid "Missed!"
+msgstr "Too slow!"
+
+msgid "Good friends are a blessing!"
+msgstr "Let's make a **data-link**!"
+
+msgid "I love my friends!"
+msgstr "I love my **crew**!"
+
+msgid "Nobody wants to play with me ..."
+msgstr "It's just me and Ein, then."
+
+msgid "I feel so alone ..."
+msgstr "Just exploring the **lonely internet**..."
+
+msgid "Where's everybody?!"
+msgstr "Where did the **signal go**?"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "Short rest for {secs}s. **Blink** and you'll miss it."
+
+msgid "Zzzzz"
+msgstr "Hibernate mode."
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "Dreaming of the datascape ({secs}s)."
+
+msgid "Good night."
+msgstr "See you in the **new data**."
+
+msgid "Zzz"
+msgstr "Off-line."
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "Waiting for the download for {secs}s..."
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "Scanning the environment ({secs}s)!"
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "Hey {what}! Want to be in my **data-sphere**?"
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "Entering {what}'s network!"
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "Yo {what}, I see you!"
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "I'm cutting the **digital leash** of {mac}!"
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "Sending {mac} an **error message**!"
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "Get off the network! **Kick** {mac}!"
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "We got {num} new handshake{plural}! **Preem** data!"
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "{count} new message{plural}! It's a bounty!"
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "Fatal exception! **Rebooting brain**..."
+
+#, python-brace-format
+msgid "Uploading data to {to} ..."
+msgstr "Uploading the loot to {to}."
+
+#, python-brace-format
+msgid "Downloading from {name} ..."
+msgstr "Sucking the data from {name}!"
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "Kicked {num} digital dummies.\n"
+
+msgid "Made >999 new friends\n"
+msgstr "So many friends! Everyone is **Radical**!\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "Made {num} new friends in the network.\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "Grabbed {num} sweet handshakes.\n"
+
+msgid "Met 1 peer"
+msgstr "Found one fellow **Net-Cowboy**."
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr "Met {num} other data explorers."
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+"I've been surfing the datascape for {duration}, kicked {deauthed} clients, "
+"met {associated} new friends, and ate {handshakes} handshakes! See you, "
+"Space Cowboy! #radicaled #bebop #pwnlog #datascape"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "seconds"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "second"

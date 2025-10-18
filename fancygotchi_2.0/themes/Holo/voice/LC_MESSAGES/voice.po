@@ -1,0 +1,261 @@
+# Holo (Spice and Wolf) Voice Set for Pwnagotchi
+# Theme: Wise Wolf / Harvest Deity / Merchant's Companion
+# V0r-T3x's Custom FancyGotchi Voice File.
+# Copyright (C) 2025 V0R-T3X
+# This file is distributed under the same license as the PACKAGE package.
+# V0r-T3x <V0r-T3x@users.noreply.github.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FancyGotchi Custom Voice\n"
+"Report-Msgid-Bugs-To: https://github.com/V0r-T3x\n"
+"POT-Creation-Date: 2025-10-17 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: V0r-T3x <V0r-T3x@users.noreply.github.com>\n"
+"Language-Team: V0r-T3x\n"
+"Language: holovoice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "Dreaming of plump harvests... Zzz."
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "Holo is awake. Let the **harvest** begin!"
+
+msgid "New day, new hunt, new pwns!"
+msgstr "Another sunrise. More **goods** to gather!"
+
+msgid "Hack the Planet!"
+msgstr "Let's see what secrets this world holds!"
+
+msgid "No more mister Wi-Fi!!"
+msgstr "The scent of a new opportunity!"
+
+msgid "Pretty fly 4 a Wi-Fi!"
+msgstr "A splendid signal! What a generous merchant!"
+
+msgid "Generating keys, do not turn off ..."
+msgstr "Forging the keys... Patience, little one."
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "Hee hee, channel {channel} is unguarded! What foolishness!"
+
+msgid "Reading last session logs ..."
+msgstr "Recalling the tales of yesterday's journey..."
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "So few tales? Only {lines_so_far} entries... are you hiding something?"
+
+msgid "I'm bored ..."
+msgstr "My ears twitch with boredom."
+
+msgid "Let's go for a walk!"
+msgstr "Come, Lawrence! The world awaits our cleverness!"
+
+msgid "This is the best day of my life!"
+msgstr "Oh, what a bountiful day!"
+
+msgid "Shitty day :/"
+msgstr "Such a meager harvest..."
+
+msgid "I'm extremely bored ..."
+msgstr "My tail is getting restless!"
+
+msgid "I'm very sad ..."
+msgstr "Perhaps some fresh bread would lift my spirits..."
+
+msgid "I'm sad"
+msgstr "A bitter taste this day."
+
+msgid "Leave me alone ..."
+msgstr "Be gone, or face a **wolf's wrath**!"
+
+msgid "I'm mad at you!"
+msgstr "You insolent human!"
+
+msgid "I'm living the life!"
+msgstr "This feels like a good ale!"
+
+msgid "I pwn therefore I am."
+msgstr "I exist, so I **pwn**."
+
+msgid "So many networks!!!"
+msgstr "A veritable forest of signals!"
+
+msgid "I'm having so much fun!"
+msgstr "Hee hee! This is delightful!"
+
+msgid "My crime is that of curiosity ..."
+msgstr "Is it truly a crime to seek **knowledge**?"
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "Greetings, {name}! May your ventures be fruitful."
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "Hello there, {name}! What brings you to this land?"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "How fares your journey, {name}?"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "A kindred spirit, {name}, draws near!"
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "Farewell, {name}. May your path be clear."
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "The traveler {name} has departed."
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "Hm, {name} seems to have slipped away."
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr "A missed opportunity for {name}."
+
+msgid "Missed!"
+msgstr "A chance gone astray!"
+
+msgid "Good friends are a blessing!"
+msgstr "A trustworthy companion is worth much gold."
+
+msgid "I love my friends!"
+msgstr "My pack is the dearest treasure!"
+
+msgid "Nobody wants to play with me ..."
+msgstr "Am I truly so fearsome?"
+
+msgid "I feel so alone ..."
+msgstr "The world feels vast and cold sometimes..."
+
+msgid "Where's everybody?!"
+msgstr "Have they all vanished into the mist?"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "Resting my ancient bones for {secs}s..."
+
+msgid "Zzzzz"
+msgstr "Sleeping..."
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "Dreaming of apples ({secs}s)."
+
+msgid "Good night."
+msgstr "May your sleep be deep."
+
+msgid "Zzz"
+msgstr "Peace."
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "Pondering for {secs}s... or perhaps a nap?"
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "Observing my surroundings for {secs}s."
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "Hello, {what}! Shall we journey together?"
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "Establishing a bond with {what}..."
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "Hey {what}! A new scent!"
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "This {mac} will no longer find its path!"
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "Sending {mac} back to the wilds."
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "Be gone, {mac}! **Howl!**"
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "Hee hee! {num} new handshake{plural}! A fine harvest indeed!"
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "You have {count} new message{plural}. Perhaps a new contract?"
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "A troublesome spirit interferes... Rebooting this vessel."
+
+#, python-brace-format
+msgid "Uploading data to {to} ..."
+msgstr "Carrying the goods to market: {to}."
+
+#, python-brace-format
+msgid "Downloading from {name} ..."
+msgstr "Receiving wisdom from {name}."
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "Chased off {num} wanderers.\n"
+
+msgid "Made >999 new friends\n"
+msgstr "The village grows! So many new faces!\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "Met {num} new companions on our journey.\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "Claimed {num} valuable handshakes.\n"
+
+msgid "Met 1 peer"
+msgstr "Found a solitary traveler."
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr "Met {num} other souls on the road."
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+"I've been on the road for {duration}, outsmarted {deauthed} clients, found "
+"{associated} new friends, and feasted on {handshakes} handshakes! Truly, a "
+"bountiful journey! #holowolf #spiceandwolf #pwnlog #harvestdeity"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "seconds"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "second"

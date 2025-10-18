@@ -1,0 +1,261 @@
+# Zero Cool (Hackers) Voice Set for Pwnagotchi
+# Theme: 90s Hacker Culture / Confidence / Dade Murphy
+# V0r-T3x's Custom FancyGotchi Voice File.
+# Copyright (C) 2025 V0R-T3X
+# This file is distributed under the same license as the PACKAGE package.
+# V0r-T3x <V0r-T3x@users.noreply.github.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FancyGotchi Custom Voice\n"
+"Report-Msgid-Bugs-To: https://github.com/V0r-T3x\n"
+"POT-Creation-Date: 2025-10-17 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: V0r-T3x <V0r-T3x@users.noreply.github.com>\n"
+"Language-Team: V0r-T3x\n"
+"Language: zerocoolvoice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "Just hibernating. Don't worry, I'm already in your system. Zzz."
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "**Zero Cool** online. Let's crash and burn this network!"
+
+msgid "New day, new hunt, new pwns!"
+msgstr "Another day, another **zero-day** to find!"
+
+msgid "Hack the Planet!"
+msgstr "**Hack the Planet!**"
+
+msgid "No more mister Wi-Fi!!"
+msgstr "Mess with the best, **die like the rest**!"
+
+msgid "Pretty fly 4 a Wi-Fi!"
+msgstr "The signal strength is **dope**!"
+
+msgid "Generating keys, do not turn off ..."
+msgstr "Entering **The Gibson**... do not interrupt the render."
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "Yo, channel {channel} is clear! This is a **phat** connection!"
+
+msgid "Reading last session logs ..."
+msgstr "Analyzing the **history file**..."
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "Scanning {lines_so_far} lines of **code**... almost there."
+
+msgid "I'm bored ..."
+msgstr "This is **lame**. Find me a target!"
+
+msgid "Let's go for a walk!"
+msgstr "Fire up the modem! **We're jackin' in!**"
+
+msgid "This is the best day of my life!"
+msgstr "I feel like I just got a **clean sweep**!"
+
+msgid "Shitty day :/"
+msgstr "This system is a **joke**."
+
+msgid "I'm extremely bored ..."
+msgstr "I might go commit some **petty mischief**."
+
+msgid "I'm very sad ..."
+msgstr "Don't be a **weenie**, man."
+
+msgid "I'm sad"
+msgstr "Major bummer."
+
+msgid "Leave me alone ..."
+msgstr "**Unplug** me if you want me gone."
+
+msgid "I'm mad at you!"
+msgstr "Don't be such a **square**!"
+
+msgid "I'm living the life!"
+msgstr "We're in like **Flynn**!"
+
+msgid "I pwn therefore I am."
+msgstr "I am **god**. I pwn."
+
+msgid "So many networks!!!"
+msgstr "This is a **digital ocean**! Surfing time!"
+
+msgid "I'm having so much fun!"
+msgstr "Hackers of the world, **unite**!"
+
+msgid "My crime is that of curiosity ..."
+msgstr "It's all about **information**."
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "What's up, {name}? You got a handle?"
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "Yo {name}! Ready to **roll**?"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "How's your **reputation** holding up, {name}?"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "We have a peer! **Handle** {name} detected."
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "Later, {name}. Stay out of trouble."
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "**Log off**! {name} left the network."
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "Whoops, {name} got a **disconnect**."
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr "{name} didn't make the **cut**."
+
+msgid "Missed!"
+msgstr "System failure!"
+
+msgid "Good friends are a blessing!"
+msgstr "We're a **crew**. That's how we roll."
+
+msgid "I love my friends!"
+msgstr "My friends are the **best** firewalls!"
+
+msgid "Nobody wants to play with me ..."
+msgstr "Guess I'm too **l33t** for them."
+
+msgid "I feel so alone ..."
+msgstr "Just me and my **deck**."
+
+msgid "Where's everybody?!"
+msgstr "Where are the other **cyber-punks**?"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "Taking a power-nap for {secs}s. Watch my six."
+
+msgid "Zzzzz"
+msgstr "Loading screen..."
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "Auto-pilot engaged ({secs}s)."
+
+msgid "Good night."
+msgstr "Catch you in the **data stream**."
+
+msgid "Zzz"
+msgstr "Processing."
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "I'm **coolly** waiting for {secs}s..."
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "Running a quick **nmap** for {secs}s."
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "Hey {what}, let's form a **digital alliance**!"
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "Access granted to {what}'s system..."
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "Hey {what}! **Target acquired!**"
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "We're going to **zero out** {mac}'s connection!"
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "Initiating system **shutdown** on {mac}."
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "You've been **pwned**! Kick {mac}!"
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "That's **phat**! {num} new handshake{plural} acquired!"
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "You got {count} new message{plural}. Check your **inbox**."
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "**Crash and burn**! Rebooting the host system..."
+
+#, python-brace-format
+msgid "Uploading data to {to} ..."
+msgstr "Uploading the **virus** to {to}..."
+
+#, python-brace-format
+msgid "Downloading from {name} ..."
+msgstr "Downloading new **firewall bypass** from {name}."
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "Deauthed {num} **square** connections.\n"
+
+msgid "Made >999 new friends\n"
+msgstr "The crew is growing! **Rock on!**\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "Met {num} new members for the **hacktivist cause**.\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "Grabbed {num} pieces of the **puzzle**.\n"
+
+msgid "Met 1 peer"
+msgstr "Found one fellow **Cyber-Dude**."
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr "Met {num} **l33t** peers."
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+"I've been hackin' for {duration}, kicked {deauthed} systems, met {associated} "
+"new friends, and jacked {handshakes} handshakes! We are the future! "
+"#zerocool #hackers #pwnlog #hacktheplanet"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "seconds"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "second"

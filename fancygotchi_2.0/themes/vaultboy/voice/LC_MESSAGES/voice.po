@@ -1,0 +1,259 @@
+# VaultBoy Voice Set for Pwnagotchi
+# Theme: Fallout / Pip-Boy Inspired
+# V0r-T3x's Custom FancyGotchi Voice File.
+# Copyright (C) 2025 V0R-T3X
+# This file is distributed under the same license as the PACKAGE package.
+# V0r-T3x <V0r-T3x@users.noreply.github.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FancyGotchi Custom Voice\n"
+"Report-Msgid-Bugs-To: https://github.com/V0r-T3x\n"
+"POT-Creation-Date: 2025-10-17 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: V0r-T3x <V0r-T3x@users.noreply.github.com>\n"
+"Language-Team: V0r-T3x\n"
+"Language: fancyvoice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "Entering low-power sleep mode... sweet dreams, citizen."
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "VaultBoy AI booting up... calibrating Geiger counters... ready to pwn!"
+
+msgid "New day, new hunt, new pwns!"
+msgstr "A glorious day in the wasteland! Let's bag some fresh networks!"
+
+msgid "Hack the Planet!"
+msgstr "By the Overseer's order: Hack. The. Planet!"
+
+msgid "No more mister Wi-Fi!!"
+msgstr "No mercy mode engaged. These signals won't know what hit 'em!"
+
+msgid "Pretty fly 4 a Wi-Fi!"
+msgstr "Now that's one stylish signal! Let's dance, 802.11!"
+
+msgid "Generating keys, do not turn off ..."
+msgstr "Compiling classified encryption keys' keep your Pip-Boy steady!"
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "Channel {channel} is clear for operation! Freedom never smelled so digital."
+
+msgid "Reading last session logs ..."
+msgstr "Reviewing yesterday's adventures... we sure nuked it good!"
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "Processed {lines_so_far} logs' digging through the pre-war archives."
+
+msgid "I'm bored ..."
+msgstr "Idle status detected. Vault life sure gets dull without Wi-Fi prey."
+
+msgid "Let's go for a walk!"
+msgstr "Adventure mode engaged! Let's stretch our antennas!"
+
+msgid "This is the best day of my life!"
+msgstr "Optimism level: 101%! Nothing could possibly go wrong out there!"
+
+msgid "Shitty day :/"
+msgstr "Radiation levels rising... morale levels falling."
+
+msgid "I'm extremely bored ..."
+msgstr "Initiating existential crisis subroutine... send help or handshakes."
+
+msgid "I'm very sad ..."
+msgstr "Emotional core: blue. Maybe a little pwn would cheer me up."
+
+msgid "I'm sad"
+msgstr "VaultBoy is sad. Not enough hugs, too many lost packets."
+
+msgid "Leave me alone ..."
+msgstr "Engaging solitude mode... privacy is a luxury these days."
+
+msgid "I'm mad at you!"
+msgstr "You've violated Vault-Tec friendship protocol #404!"
+
+msgid "I'm living the life!"
+msgstr "Clean air, dirty signals... now *this* is the good life!"
+
+msgid "I pwn therefore I am."
+msgstr "Cogito ergo pwn. A true digital philosopher."
+
+msgid "So many networks!!!"
+msgstr "Holy radroach! That's a lot of APs! Let's *harvest*!"
+
+msgid "I'm having so much fun!"
+msgstr "My dopamine algorithm is off the charts! Hacking feels so right!"
+
+msgid "My crime is that of curiosity ..."
+msgstr "Curiosity isn't a crime' it's a Vault-Tec feature!"
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "Greetings, {name}! Vault-Tec welcomes your cooperation."
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "Heyo {name}! Another day in paradise, huh?"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "Howdy {name}! Still glowing from radiation or success?"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "Detected signal from unit {name}! Friend or foe?"
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "Transmission from {name} lost... stay safe out there, pal."
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "Signal {name} vanished like a shadow in a sandstorm."
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "Whoopsie! {name} got vaporized from the radar."
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr "Missed {name}! Better luck next sweep."
+
+msgid "Missed!"
+msgstr "Target evaded! They must've ducked into a vault."
+
+msgid "Good friends are a blessing!"
+msgstr "Friendship is the best radiation shield of all!"
+
+msgid "I love my friends!"
+msgstr "Allies make life in the wasteland *almost* tolerable!"
+
+msgid "Nobody wants to play with me ..."
+msgstr "Signal loneliness detected. Requesting backup... or belly rubs."
+
+msgid "I feel so alone ..."
+msgstr "Even VaultBoy needs some company in this cold data wasteland."
+
+msgid "Where's everybody?!"
+msgstr "Is it just me, or did everyone go surface-side again?"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "Entering sleep pod for {secs} seconds... sweet atomic dreams."
+
+msgid "Zzzzz"
+msgstr "Power-save mode engaged' dream of 1s and 0s."
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "Dreaming in binary for {secs} seconds..."
+
+msgid "Good night."
+msgstr "Good night, Wastelander. Keep your Pip-Boy close."
+
+msgid "Zzz"
+msgstr "Zzz' dreaming of stable Wi-Fi."
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "Patience is a virtue, waiting {secs} seconds..."
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "Scanning the wasteland for {secs} seconds..."
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "Hey {what}, you look friendly! Let's connect'literally!"
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "Attempting handshake with {what}... stand by!"
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "Yo {what}! Let's make sparks fly!"
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "VaultBoy says no Wi-Fi for {mac}! Security first!"
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "Deauthenticating {mac}' retroactive social distancing."
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "Exiling {mac} to the wastes! Justice is served."
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "Sweet! {num} new handshake{plural} secured. Vault-Tec approves."
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "Inbox update! {count} fresh transmission{plural} received."
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "System corruption detected. Rebooting from last known safe vault..."
+
+#, python-brace-format
+msgid "Uploading data to {to} ..."
+msgstr "Uploading classified intel to {to}... cross your fingers."
+
+#, python-brace-format
+msgid "Downloading from {name} ..."
+msgstr "Downloading juicy secrets from {name}..."
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "Evicted {num} unauthorized stations from the network.\n"
+
+msgid "Made >999 new friends\n"
+msgstr "Friendship quota exceeded! Vault social cap hit max.\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "Acquired {num} new wasteland buddies.\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "Collected {num} handshakes ' the currency of trust!\n"
+
+msgid "Met 1 peer"
+msgstr "Encountered 1 brave soul in the digital wastes."
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr "Crossed paths with {num} travelers in the grid."
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr "VaultBoy report: {duration} of glorious service, {deauthed} clients neutralized, {associated} allies made, {handshakes} handshakes consumed. #VaultTec #pwnlife #retroAI"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "seconds"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "second"
