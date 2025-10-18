@@ -79,7 +79,7 @@ z_axis = 0
 
 [theme.widget.channel]
 position = [ 278, 96,]
-label = "CH"
+label = ""
 label_font_size = "Bold"
 text_font_size = "Medium"
 label_line_spacing = 0
@@ -90,8 +90,8 @@ f_awesome_size = 40
 z_axis = 0
 
 [theme.widget.aps]
-position = [ 224, 96,]
-label = "AP"
+position = [ 218, 96,]
+label = ""
 label_font_size = "Bold"
 text_font_size = "Medium"
 label_spacing = 20
@@ -198,6 +198,7 @@ icon = false
 f_awesome = false
 f_awesome_size = 40
 z_axis = 0
+label = ""
 
 [theme.widget.memtemp_mem]
 position = [ 273, 23,]
@@ -210,6 +211,7 @@ icon = false
 f_awesome = false
 f_awesome_size = 40
 z_axis = 0
+label = ""
 
 [theme.widget.memtemp_temp]
 position = [ 218, 61,]
@@ -222,6 +224,7 @@ icon = false
 f_awesome = false
 f_awesome_size = 40
 z_axis = 0
+label = ""
 
 [theme.menu.menu1.options]
 title = "My Custom menu"
