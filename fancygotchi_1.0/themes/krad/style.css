@@ -1,0 +1,64 @@
+.ui-image {
+  width: 100%;
+}
+.pixelated {
+  image-rendering: optimizeSpeed;             /* chrome  */
+  image-rendering: -moz-crisp-edges;          /* firefox */
+  image-rendering: -o-crisp-edges;            /* opera   */
+  image-rendering: -webkit-optimize-contrast; /* safari  */
+  image-rendering: optimize-contrast;         /* CSS3    */
+  image-rendering: crisp-edges;               /* CSS4    */
+  image-rendering: pixelated;                 /* CSS4    */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+    */
+}
+.image-wrapper {
+  flex: 1;
+  position: relative;
+}
+div.status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+a.read {
+  color: #777 !important;
+}
+p.messagebody {
+  padding: 1em;
+}
+li.navitem {
+  width: 16.66% !important;
+  clear: none !important;
+}
+.custom-size-flipswitch.ui-flipswitch .ui-btn.ui-flipswitch-on {
+  text-indent: -5.9em;
+}
+.custom-size-flipswitch.ui-flipswitch .ui-flipswitch-off {
+  text-indent: 0.5em;
+}
+.custom-size-flipswitch.ui-flipswitch {
+  width: 8.875em;
+}
+.custom-size-flipswitch.ui-flipswitch.ui-flipswitch-active {
+  padding-left: 7em;
+  width: 1.875em;
+}
+@media (min-width: 28em) {
+  .ui-field-contain > label + .custom-size-flipswitch.ui-flipswitch {
+    width: 1.875em;
+  }
+}
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.plugins-box {
+  margin: 0.5rem;
+  padding: 0.2rem;
+  border-style: groove;
+  border-radius: 0.5rem;
+  background-color: lightgrey;
+  text-align: center;
+}

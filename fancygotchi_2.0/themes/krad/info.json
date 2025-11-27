@@ -1,0 +1,11 @@
+{
+  "author": "<a href='https://x-e.ro'>xero</a>",
+  "version": "0.2.0",
+  "resolutions": " 250x122",
+  "display": "waveshare_3",
+  "plugins": [
+    "exp",
+    "memtemp"
+  ],
+  "notes": "hack the planet!"
+}

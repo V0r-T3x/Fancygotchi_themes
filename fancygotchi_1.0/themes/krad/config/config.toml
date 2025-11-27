@@ -1,0 +1,364 @@
+[theme.options]
+boot_animation = true
+boot_mode = "normal"
+boot_max_loops = 1
+boot_total_duration = 1
+screen_mode = "screen_saver"
+screen_saver = "show_logo"
+second_screen_fps = 1
+webui_fps = 1
+second_screen_webui = false
+bg_fg_select = "manu"
+bg_mode = "normal"
+fg_mode = "normal"
+fg_image = ""
+bg_color = "white"
+bg_image = "bg.png"
+bg_anim_image = ""
+font_sizes = [ 14, 9, 12, 25, 19, 9,]
+font = "DejaVuSansMono"
+font_bold = "DejaVuSansMono-Bold"
+status_font = "DejaVuSansMono"
+font_awesome = ""
+size_offset = 5
+label_spacing = 10
+label_line_spacing = 0
+cursor = ""
+friend_bars = "▌"
+friend_no_bars = "│"
+base_text_color = [ "black",]
+main_text_color = [ "black",]
+color_mode = [ "P", "P",]
+
+[theme.options.faces]
+look_r = "( ⚆_⚆)"
+look_l = "(☉_☉ )"
+look_r_happy = "( ◕‿◕)"
+look_l_happy = "(◕‿◕ )"
+sleep = "(⇀‿‿↼)"
+sleep2 = "(≖‿‿≖)"
+awake = "(◕‿‿◕)"
+bored = "(-__-)"
+intense = "(°▃▃°)"
+cool = "(⌐■_■)"
+happy = "(•‿‿•)"
+excited = "(ᵔ◡◡ᵔ)"
+grateful = "(^‿‿^)"
+motivated = "(☼‿‿☼)"
+demotivated = "(≖__≖)"
+smart = "(✜‿‿✜)"
+lonely = "(ب__ب)"
+sad = "(╥☁╥ )"
+angry = "(-_-')"
+friend = "(♥‿‿♥)"
+broken = "(☓‿‿☓)"
+debug = "(#__#)"
+upload = "(1__0)"
+upload1 = "(1__1)"
+upload2 = "(0__1)"
+
+[theme.menu.options]
+motion_text = true
+motion_text_speed = 20
+bg_select = "manu"
+bg_mode = "normal"
+position = [ 0, 0,]
+title_position = [ "center", "5",]
+title_font_size = "Medium"
+title_color = "black"
+width = 100
+height = "100%"
+buttons_position = [ "center", "5",]
+buttons_width = "90%"
+button_height = 15
+button_spacing = 3
+bg_color = "white"
+border_color = "black"
+highlight_color = "black"
+highlight_border_color = "white"
+highlight_text_color = "white"
+button_bg_color = "white"
+button_bg_border_color = "black"
+button_text_color = "black"
+bg_image = ""
+button_bg_image = ""
+highlight_button_bg_image = ""
+text_position = [ "center", "center",]
+button_font_size = "Medium"
+timeout = 30
+
+[theme.widget.channel]
+position = [ 100, 3,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+label = "CH"
+label_font = ""
+label_font_size = "Bold"
+label_spacing = 10
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+
+[theme.widget.aps]
+position = [ 145, 3,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+label = "APs"
+label_font = ""
+label_font_size = "Bold"
+label_spacing = 13
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+
+[theme.widget.uptime]
+position = [ 0, 15,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 0
+f_awesome = false
+f_awesome_size = 0
+label = ""
+label_spacing = 1
+
+[theme.widget.line1]
+z_axis = -1
+
+[theme.widget.line2]
+z_axis = -1
+
+[theme.widget.face]
+position = [ 8, 42,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Huge"
+size_offset = 0
+icon = true
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0
+
+[theme.widget.friend_name]
+position = [ 0, 92,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "BoldSmall"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0
+
+[theme.widget.name]
+position = [ 0, 0,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Bold"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0
+
+[theme.widget.status]
+position = [ 87, 60,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Medium"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = true
+max_length = 0
+
+[theme.widget.shakes]
+position = [ 91, 18,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Small"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+label = ""
+label_font = ""
+label_font_size = "Small"
+label_spacing = 0
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+wrap = "True"
+max_length = 0
+
+[theme.widget.mode]
+position = [ 196, 42,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Small"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0
+
+[theme.widget.Lv]
+position = [ 9, 102,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Small"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+label = "Lvl"
+label_font = ""
+label_font_size = "Small"
+label_spacing = 5
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+
+[theme.widget.Xp]
+position = [ 0, 114,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Small"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+label = ""
+label_font = ""
+label_font_size = "Medium"
+label_spacing = 5
+label_line_spacing = 0
+f_awesome = false
+f_awesome_size = 0
+
+[theme.widget.memtemp_header]
+position = [ 105, 32,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Small"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0
+
+[theme.widget.memtemp_data]
+position = [ 105, 42,]
+color = [ 0,]
+z_axis = 0
+text_font = ""
+text_font_size = "Small"
+size_offset = 0
+icon = false
+icon_color = false
+invert = false
+alpha = false
+crop = [ 0, 0, 0, 0,]
+mask = false
+refine = 150
+zoom = 1
+image_type = "png"
+wrap = false
+max_length = 0
