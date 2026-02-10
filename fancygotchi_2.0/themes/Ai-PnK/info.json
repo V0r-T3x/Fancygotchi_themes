@@ -1,0 +1,8 @@
+{
+  "author": "<a href='https://github.com/drakenjin'>drakenjin</a>",
+  "version": "1.0.0",
+  "display": "PiSugar Whisplay HAT",
+  "resolution": "240x280",
+  "plugins": "memtemp.py, bt-tether.py, IPdisplay.py,clock.py, Pisugar3.py",
+  "notes": "only in vertcal position, only tested on whisplay hat"
+}
